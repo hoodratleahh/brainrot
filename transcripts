@@ -1,0 +1,7205 @@
+PART 1:
+
+Hey there, welcome to my channel. I'm on
+0:01
+the mission to hit 100,000 subscribers
+0:03
+before the end of 2025. And your support
+0:05
+means everything. So don't be that
+0:07
+person who watches but doesn't
+0:08
+subscribe. Thanks for being here and
+0:10
+let's jump right in.
+0:11
+[Music]
+0:13
+Hello everybody. Yes, it's Py and
+0:15
+welcome back to another tutorial on the
+0:16
+TwinPlays channel. In this video, we're
+0:18
+going to be talking about making a steal
+0:20
+a brain rock game in the big 2025. Um,
+0:24
+so I normally make, if you're new to my
+0:25
+channel, I normally make my own models
+0:27
+and my own games and kits, but for this
+0:30
+video, we're actually going to be
+0:31
+highlighting someone else who already
+0:32
+made this game. And I thought I'd make a
+0:34
+video on it just because, um, you know,
+0:36
+I I love to make tutorials in general.
+0:38
+And, um, yeah. So, we're going to be
+0:39
+highlighting some of the things and
+0:40
+we're going to be getting just started.
+0:42
+So, um, if you're new to my channel, as
+0:43
+you saw in the beginning of the video,
+0:45
+feel free to hit the subscribe button.
+0:46
+We're trying to get 100,000. And, um, if
+0:49
+you haven't been watching, if you're
+0:50
+new, I also am doing the grow a garden
+0:52
+series. So, go check that out as well.
+0:54
+But, um, yeah, we're just going to head
+0:56
+into Studio now. Um, if you're using,
+0:59
+uh, Studio Light, I know a lot of people
+Setting Up Game
+1:00
+use Studio Light, it's going to be fine
+1:02
+because you're actually going to be able
+1:03
+to make a game just based off of that if
+1:04
+you're on your mobile. Um, but in this
+1:06
+base plate, uh, we're just going to go
+1:07
+and make a base plate. So, head to your
+1:09
+Roblox Studio, make a base plate, and,
+1:11
+um, of course, as first things first,
+1:14
+uh, if you guys want, um, go in the
+1:17
+description and there's a bunch of
+1:19
+links. So, I'm going to have you guys go
+1:20
+and grab all the links soon here, which
+1:22
+we'll talk about. Um, and there's the
+1:24
+models and everything that you need. Um,
+1:26
+but you can also get them on Studio
+1:28
+Light if you just search them up. But,
+1:29
+so you're in your game now. Uh, of
+1:31
+course, you know, you want to hit game
+1:32
+settings and save to Roblox. Um, I'm
+1:34
+going to call this, uh, yeah, steal a
+1:36
+whatever, whatever. Steal a thing, game
+1:38
+kit, blah blah blah. Um, I'm not going
+1:41
+to release this just because we already
+1:43
+have it made. Um, unless I do more
+1:45
+tutorials on this. If you guys want me
+1:47
+to, maybe I might go and make a full-on
+1:49
+kit. Just let me know. Um, and yeah, so
+1:51
+you could just do your name and
+1:52
+description here. Um, blah blah blah.
+1:55
+Creator me devices. You could do all of
+1:57
+these. You could do also console if you
+1:59
+want as well. Uh, but team crate, I just
+2:01
+turned that off. Uh, data sharing, you
+2:03
+could do that if you'd like as well. Um,
+2:06
+I'll just that's whatever. So, save.
+2:09
+Um, once you do that, you're going to
+2:10
+just close this out. And, um, you're
+2:12
+kind of getting ready to get started.
+2:13
+Uh, first things first, though. Um, I
+2:16
+actually don't even know uh how many
+2:18
+people are allowed in one server and
+2:19
+steal a brain rot, but let's just go
+2:21
+see. So, you had to steal a brain rot.
+2:23
+Um, it's actually kind of fun too
+2:24
+sometimes to look at this stuff as you
+2:26
+can see like their descriptions. So,
+2:27
+like I could just copy and paste this.
+2:29
+Um, okay. Server size is eight. So, it
+2:31
+looks like you get eight people in one
+2:32
+server. But yeah, so like Oh, boom. Here
+2:33
+we go. We get we get a thing like this,
+2:36
+you know. See the brain? Um,
+2:40
+actually, whatever. It's fine. Okay. So,
+2:43
+go in here. You have a thumbnail icon.
+2:44
+You can do that if you want. Fill out
+2:46
+the questionnaire as well. Um,
+2:48
+communication, of course, microphone on.
+2:50
+Permissions, uh, keep it private for
+2:52
+now. Monetization, we could go into this
+2:54
+later. Um, this is just your badges,
+2:57
+developer products, all that stuff. Um,
+2:59
+security, you want to turn this on. Uh,
+3:01
+HTTP request, enable studio access, and
+3:04
+then, um, everything else, you could do
+3:06
+that as well. But, um, if you're on
+3:08
+studio light, it should already be, I
+3:09
+think, enabled. I don't know how that
+3:11
+works, but um, I mean, yeah. So that's
+3:14
+it. Pretty much good. And then yeah, of
+3:15
+course, add the thumbnails and icons all
+3:17
+you need. Okay, so going into the
+3:19
+description like I was talking about.
+Getting Models
+3:21
+Um, we have this right here. This is a
+3:23
+Steeler brand map that I made uh that I
+3:26
+didn't make. Sorry, TGO made. Um, so
+3:28
+thank you, TGO. He actually made a full
+3:29
+game which I might actually go and work
+3:31
+on. I don't want it to go to waste
+3:32
+because I know he was building it. It
+3:34
+has a bunch of cool UIs and it's
+3:35
+actually really good. um as well as the
+3:38
+fact that it uses our own like friends
+3:40
+and characters instead of just like
+3:42
+pre-made ones. So, I'll talk about that
+3:44
+in a bit here and how we're going to do
+3:46
+this. But yeah, so go ahead and go
+3:48
+description and get this asset. Uh
+3:49
+pretty simple. Um you can um just hit
+3:52
+like get in studio or whatever. And the
+3:54
+same for this one as well. Golden milk.
+3:56
+This is the one we're going to be
+3:57
+looking at. Um open in studio once you
+3:59
+get it. Download whatever is easier. Um
+4:01
+all of these are also on my Discord, so
+4:03
+feel free to join the Discord. But um
+4:05
+yeah, so once you get it uh we're just
+4:08
+going to do it right now. So you're
+4:09
+going to open this up. This is the
+4:10
+sealer brain rot uh the map itself. Um
+4:13
+and put it right here. I think he
+4:16
+already has like I don't know how the
+4:19
+spawns work, but we'll just put this
+Setting Up Bases
+4:20
+here for now. Um but yeah, so he already
+4:23
+had some of the stuff in here. So uh I'm
+4:25
+going to just get rid of this base plate
+4:26
+for now. But as you could tell, you
+4:28
+know, he had the bases, you know,
+4:29
+multiplayers. He had a few of these
+4:30
+things going already and making. Um, so
+4:33
+I mean I guess in the meantime we'll
+4:35
+just uh let's just duplicate these.
+4:36
+Okay, cuz technically we are supposed to
+4:38
+do uh eight. So we'll go like this. Um
+4:44
+just in case. And then we'll call this
+4:46
+base three. And we'll go down and call
+4:48
+this base four. And then how I'm doing
+4:51
+this you guys, you can just select all
+4:52
+of them and then do control D. Or you
+4:54
+can actually just go here and hit
+4:56
+duplicate. Butt control D. Go all the
+4:58
+way over here and then controll R. And
+5:01
+there you go. Bada boom, bada boom. Um,
+5:04
+so that's good. Now we have those made.
+5:07
+Um, only thing is you do need to uh
+5:10
+change this. So, honestly, if I want,
+5:11
+it's probably easier. I can just go like
+5:13
+this. Base two,
+5:15
+uh, base three. It doesn't really matter
+5:17
+what order they are, I don't think. So,
+5:19
+go through here. Um, but yeah. So, if
+5:22
+you guys actually want more tutorials,
+5:24
+maybe like something specific on like
+5:26
+oh, making a baseball bat or like I know
+5:28
+this kit has it, this guy that he made
+5:30
+it, but you know, just making things
+5:32
+better and nicer, I could do that. Just
+5:34
+let me know. Um, portals. Portals, too.
+5:37
+Oh, yeah. Portals. Okay, so I know he
+5:39
+did some of this stuff. Borders, that's
+5:41
+nice to know. Walk points, all that kind
+5:43
+of stuff. Okay, so that's the map
+5:45
+itself. That's it. It's already done.
+5:47
+Got your map. You have the little spawn
+5:49
+points in here. You have your little um
+5:51
+the lock text holder. Uh right or left.
+5:55
+Yeah. So I he made it pretty nice
+5:56
+actually, which is good, but we might
+5:58
+have to change it just a little bit. Uh
+6:00
+okay. So in here, this is the steel a
+6:02
+thing kit uh as you can tell. Um
+6:06
+it's all in this tutorial over here, but
+6:09
+yeah. So I mean he kind of had it like
+6:11
+this. Okay. So we have bases. Yeah. Base
+6:13
+one, base two has a doors, has a slots.
+6:16
+So you you're going to have to go and
+6:17
+change up some stuff. Okay. But for now.
+6:19
+Okay. So, we have leaderboards. We're
+Setting Up Kit
+6:21
+good to put this in here. This is in
+6:22
+workspace. So, um we can actually just
+6:25
+like go over here and I don't know. We
+6:28
+can just put this over here for now. I
+6:29
+guess I I don't even know there was
+6:30
+leaderboards, but I don't know how that
+6:32
+works. All right. Uh things. Okay. So,
+6:34
+things. Yeah, I just put that in
+6:35
+workspace, I guess. Uh way points. Okay.
+6:37
+So, we'll talk about way points. Um I
+6:39
+don't even guys, it's kind of funny.
+6:40
+I've actually I haven't even worked on
+6:42
+this game before, so it's going to be
+6:44
+brand new for me. Uh I haven't looked at
+6:46
+this tutorial. So, um, it looks like
+6:48
+these are the walk points. So, I know,
+6:51
+uh, how this works, his is probably the
+6:53
+same thing. Um, so we'll go all the way
+6:55
+over here. So, just based off of like
+6:57
+where they're going to walk through and
+6:58
+stuff. Um, so I'll go like this. And
+7:01
+then transparency, you're good to just
+7:03
+uh, you know, set that to one. Um, and
+7:06
+then waypoint one. I'm guessing that's
+7:07
+these are how they work. Uh, we'll go
+7:09
+down here
+7:12
+and we'll go and put this right here and
+7:14
+we'll go like that. So, pretty nice. Um,
+7:18
+okay. So, then we go into here. You can
+7:20
+actually go to map. Uh, yeah, walk
+7:22
+points. See, he had the different walk
+7:24
+point things. Um, but we'll have to look
+7:26
+at that. We'll look at that later for
+7:28
+now, but it's okay because it doesn't
+7:30
+make a difference. Okay. So, uh, yeah,
+7:32
+bases. Uh, let's go and
+7:35
+Okay, so this be a little bit more
+7:37
+difficult. We'll do that a sec.
+7:39
+Lighting. You can put this into
+7:40
+lighting. Uh, we'll add that into there.
+7:42
+Uh, replicated storage. So, these are
+7:44
+going to be all the things we're going
+7:45
+to put into replicated storage. Um,
+7:47
+server script service. Perfect. We'll
+7:49
+put this in server script. Um, server
+7:52
+storage, which is nice about his kit and
+7:54
+why I get upset sometimes is because
+7:56
+modules, you know, I can make this like
+7:58
+a Roblox model. It's just his was able
+8:00
+to because he doesn't use module
+8:01
+scripts. So, I mean, it's it's pretty
+8:03
+nice. But, this is probably a basic kit.
+8:06
+So, we'll see how this works. But, I
+8:07
+like how he has all the uh stuff already
+8:09
+made, which is very nice. Uh, yeah. So,
+8:12
+sound service. So, go put this in the
+8:13
+sound service. Um, and then we go put
+8:17
+this in starter player scripts. Pretty
+8:19
+nice. Okay.
+8:22
+And then this is the workspace, which I
+8:24
+guess I'll for now I'll just put that in
+8:25
+there. Okay. So, need that. All right.
+8:28
+So, um, pretty cool. We have a lot of
+8:31
+stuff in here, it looks like. Um, that's
+8:33
+pretty small screen over there. Where
+8:35
+the, uh, index UI? I don't know. Okay.
+8:38
+Yeah. So, he has index, he has money,
+8:39
+notifications, rebirth, shop, and then
+8:41
+image labels.
+8:42
+Um,
+8:44
+I wonder how all this works, but pretty
+8:48
+cool. Oh, yeah. Friend boost and money.
+8:50
+Okay, so like this probably should just
+8:51
+be a little bit bigger, but I'll go like
+8:53
+that for now. Okay, so um yeah, so
+8:57
+that's how that works. Uh, we'll go into
+8:59
+the scripts probably, but I guess we'll
+9:01
+just talk about how you could do this.
+9:03
+Um, going into the bases, this is
+9:05
+probably going to take a little bit of
+9:06
+some time because you do have to do some
+9:09
+things, but as you can tell, you have
+9:10
+doors. um all that kind of stuff. So
+9:13
+technically, if we wanted to um we have
+9:15
+map right here, base one, base two. I
+9:18
+guess we could just technically go it's
+Setting Up Base 1
+9:20
+it's kind of hard because you know he
+9:21
+already has a lot of the stuff um made,
+9:24
+but if you want we could delete a lot of
+9:26
+it, but for now um I guess the easiest
+9:29
+way to do this is um let's just say we
+9:31
+head over to base one. Okay, so base one
+9:35
+uh we got it all right here. We're going
+9:36
+to call and we'll do door. Um, we'll
+9:39
+just go over here and we'll go like
+9:40
+this. So, um, I'm going to put this on
+9:43
+the outside just in case cuz I don't
+9:44
+know how his kit works specifically. Um,
+9:46
+I'll probably have to delete his barrier
+9:48
+thing. Um, and that's kind of when I
+9:49
+talk about making tutorials, like if you
+9:51
+guys want me to make the lock system and
+9:52
+everything cuz Oh, wait. No, it looks
+9:54
+like he does have a lock. Okay, so he
+9:56
+does have a lock thing. Okay. Um, I'm
+9:58
+guessing that's just how that works. So,
+10:00
+we'll see. Okay, for now we'll just go
+10:02
+like this just because I don't know how
+10:03
+this works. Um, owner. Uh, I'm guessing
+10:06
+this is like a screen thing. So, do
+10:10
+that. Spawn.
+10:12
+I'm guessing you spawn inside your base
+10:14
+if I'm correct. So, we'll do that. Uh,
+10:16
+owner lock friends. Uh, friends. I don't
+10:20
+know how friends work. That. Okay. And
+10:23
+collect zone. Um, same thing. So,
+10:25
+collect zone would be right here. So,
+10:28
+we'll go like that. And then, um, okay.
+10:32
+And then slots. So, this is the slots.
+10:35
+Okay. collect spawn uh configuration.
+10:38
+So, occupied reaper thing. Perfect.
+10:41
+Okay. Um
+10:44
+yeah. So, kind of going to this
+10:46
+actually. So, we go right here. Um what
+10:48
+we're basically doing is uh I guess kind
+10:52
+of going off of what he had and why I
+10:53
+think TGO's kit is very nice. And I'm
+10:55
+going to actually release that to you
+10:57
+guys. Sorry, this is a very uh different
+10:59
+kind of video, but I'm going to make
+11:00
+another video probably about making a
+11:02
+better kit. uh basically collecting and
+11:04
+spawning. Um so yeah, so you just kind
+11:07
+of line these up, I guess, for now until
+11:08
+until I make a certain kit going
+11:10
+forward. We'll work on it. But yeah,
+11:12
+slot two, I'll just get rid of that. So
+11:14
+slot one, and then you just go forth and
+11:16
+you could call it slot two and then uh
+11:19
+same thing. You guys just keep going and
+11:21
+um
+11:23
+slot three, go back here, slot four, and
+11:27
+then I would do the other. I'm just
+11:29
+going to like this. So, going through,
+11:32
+same thing, you guys. Just kind of go
+11:34
+and make them all. Um, I don't know. I'm
+11:36
+going to test this out. I don't know if
+11:38
+it will work specifically because I have
+11:40
+um like different things or whatever
+11:43
+here, but we should be okay. Um, okay.
+11:46
+So, slot eight, blah, blah, blah. Okay.
+11:49
+And yeah, so you guys want to make sure
+11:50
+your things I know he has the map and he
+11:52
+has bases and stuff, but this is for the
+11:54
+other kit. But for now, you do want to
+11:56
+make sure that it is like this because
+11:58
+uh the way it just is just the way it
+12:00
+is. Um okay, so looks like you have a
+12:04
+bunch of events, some functions, some
+Extra
+12:06
+modules, uh animations. Let's see here.
+12:09
+So we have some animations in here.
+12:11
+Okay, we have some numbers. Oh yeah,
+12:14
+it's the converting and configuration.
+12:16
+Um modules, mutations, rarities,
+12:19
+reapers. Okay, so I think he kind of
+12:20
+talked about this as well. Um, so slap.
+12:25
+Yeah. So, we have a slap right here. We
+12:27
+have tools. Um, with the shop and stuff.
+12:30
+You can change this based off of the
+12:31
+thing. If you want to make more, you
+12:33
+just copy it and you go down and you
+12:35
+like go right here and you can say it's
+12:36
+like, I don't know, balloon or whatever.
+12:38
+Um, you can change the price, you can
+12:40
+change the rebirth. Um, so it takes five
+12:42
+rebirths to own it. Starter, you want to
+12:44
+turn it to false. Return stolen items
+12:46
+true. So, that is a great way of uh
+12:48
+making things, which is nice. I'm glad
+12:49
+you had that. So, this is a starter
+12:50
+item. the bat of course um things. Okay.
+12:53
+So thing rarity common price 250s bunny
+12:56
+per second five idle walking animations.
+12:58
+So when it comes to animations and this
+13:01
+is one thing is we will have to make our
+13:04
+own animations. Um so like if I were to
+13:07
+search up R15 uh I don't know let's see
+13:09
+carry carry uh walk. I don't know. We'll
+Making Mutations
+13:12
+have to look at this. But um as you can
+13:14
+tell there's mutations right here too.
+13:16
+So um honestly I can just make another
+13:18
+one just for the fun of it. But if you
+13:20
+just were to go like I don't know
+13:22
+prismatic I guess. Um or whatever. We'll
+13:25
+just go pink for now. Uh chance will be
+13:28
+like let's just do like 60%. Multiplier
+13:33
+index blah blah blah. But uh I'll go
+13:35
+into that as well. But yeah, so
+13:36
+mutations uh rarities. Um okay. So these
+13:39
+are mutations and then there's rarities
+13:40
+and then there's things. Okay. So
+13:42
+rarities, things common. So you want to
+13:44
+make sure they all line up together. It
+13:46
+looks like um configuration modules,
+13:48
+asset ids. Okay. Yeah, developer
+13:50
+products. So, looks like he has a
+13:51
+developer product for unlock base. Um to
+13:54
+do that, you just go into your uh
+13:57
+monetization. Okay. And then you go
+13:58
+right here, developer product, and um
+14:01
+we'll just call it like unlock base and
+14:04
+we'll go like 100 Robux. Hit save. Open
+14:08
+back your settings again. Monetization.
+14:09
+Go to here. Copy ID. And then you can
+DeveloperProduct
+14:12
+put that right here. So, it looks like
+14:13
+he has an un unlock based one. Um, so
+14:16
+configuration good. Tools will go into
+14:18
+thing. Modules. Um,
+14:22
+oh yeah. So, I forgot he says it looks
+14:24
+like he uses like some uh Yeah, like
+14:27
+GUIs that just go on based off of his
+14:29
+thing. Um, set properties. Okay. Um, so
+14:33
+it looks like just customizing is the
+14:35
+only thing we need to do. And as you can
+14:37
+tell, there's the thing, which we'll
+14:38
+talk about. Um, set properties, same
+14:41
+thing. And then he has all the GUIs.
+14:44
+Okay. I just want to make sure I'm not
+14:45
+missing anything before I go forward.
+14:47
+But um Oh, yeah. Animations. Oh, yeah.
+14:50
+That's already good. Okay. So,
+14:53
+I don't know. Maybe I do need to just
+14:55
+hit play. But let's just see. So, index.
+14:57
+This is where he does the index. He has
+14:58
+players. He has a data store.
+15:01
+Okay. Oh, this is a lot of code. Whoa.
+15:05
+Um,
+15:07
+just making sure I'm not seeing steals
+15:08
+base multiplier friends index multip.
+15:10
+Okay.
+15:12
+Nice. Rebirth. Same thing. Things. Uh,
+15:15
+this is talking about spawning, I'm
+15:17
+pretty sure. Tools. Uh, okay. And this
+15:20
+is the tools specifically. So, that's
+15:22
+kind of nice to know. So, fling. Okay.
+15:25
+So, I'm guessing I could just hit play
+15:26
+right now. Let's just see if it gives me
+15:28
+an arrow. Give me an error. But, okay.
+Example
+15:31
+There you go. It didn't give me an
+15:32
+error. So,
+15:34
+all right. And it's working just great.
+15:36
+Okay. So, as you can tell, so we have uh
+15:38
+the things already going. Um thing
+15:40
+common thing thing common common thing
+15:43
+prismatic I already added that one. You
+15:45
+see how it happened and um it changed
+15:47
+the color of it as well. Um so I
+15:50
+actually specifically don't really know
+15:52
+how. So let's just steal him real quick.
+15:54
+Let's see. Let's just see how this
+15:56
+works. Okay. So I heard there's offline
+15:58
+stuff too. But yeah. So clunky bat. You
+16:01
+have a bat too. I don't know if he has
+16:02
+any animations. I'd have to see. But
+16:04
+okay. So it's walking. It's walking. Oh,
+16:06
+okay. That right there is the collect.
+16:08
+What does that say?
+16:10
+Uh, money multiplier collect zone. I
+16:13
+don't even know how that works. Okay, so
+16:15
+you have friends allow this and we have
+16:18
+lock. Oh, I just touched it. So, it
+16:20
+touched it and it turned it on.
+16:23
+Huh. Okay. So, yeah, I haven't looked at
+16:25
+this guy, so I don't know how it works,
+16:26
+but okay. So, as you can tell, you have
+16:28
+the the collecting. It's It's working
+16:29
+now. Um, so guess I step on it, added it
+16:33
+up. Um, I didn't even know you could
+16:34
+sell them either. Okay, pretty cool.
+16:37
+So technically that's kind of like the
+16:39
+base of it. So I'm guessing yeah allowed
+16:42
+friends. Okay. Kind of cool. So this
+16:44
+would probably be best if you put it
+16:45
+like on the wall or something. And uh
+16:48
+whatever was right here as well. I like
+16:50
+Tego's a little bit better with the way
+16:52
+he made some things which I'll show you
+16:53
+guys later. But yeah. So you go shop um
+16:56
+yeah rebirth. So you can do that. Uh
+16:58
+rebirth requirements. Uh money
+17:01
+multiplier lock time slap and then
+17:04
+requirements. Okay. So it requires a
+17:06
+certain thing. So index. Okay. So we
+17:08
+have default gold. Okay. So all the
+17:10
+prismatic. Oh yeah. So it already added
+17:12
+all of them too, which is pretty cool.
+17:14
+Um, okay. So common. Oh, so that's how
+17:16
+he does this. Collect all the gold
+17:18
+things for gold. Default for prismatics.
+17:20
+Blah blah blah. So we already did that,
+17:22
+but we don't have enough money. So okay,
+17:24
+that's okay.
+17:27
+Collect zone. Huh? Money multiplier.
+17:29
+Well, as you could tell, uh, yeah. So
+17:32
+that's basically the start of the kit.
+17:34
+So, we have some things that little
+17:35
+notification you'd have to fix. But, um,
+17:37
+I don't know specifically if it work. Oh
+17:39
+god, there's a lot of them. Holy crap.
+17:42
+Um, but yeah, as you could tell, it
+17:44
+steals them. I think as if I could just
+17:46
+keep grabbing, right? But, um, they
+17:50
+probably will just keep going. One thing
+17:51
+I would have to figure out is why
+17:53
+they're doing that. Oh, you know what?
+17:54
+It's cuz the collect zone is high up.
+17:55
+That's why. Okay. So, yeah, this would
+17:57
+have to be like lowered to the floor
+17:59
+basically is what you do. But, okay. So
+18:01
+now I have uh one more and then I could
+18:03
+uh be good.
+18:06
+Um let's go over here. So
+18:10
+yeah, I might I may might make some
+18:12
+tutorials on this. I like I like how he
+18:14
+did it. I think there's just a lot of
+18:15
+stuff that's missing. Um but yeah. Okay,
+18:17
+so now we have eight. Um I love how they
+18:19
+have animations, too. It looks it looks
+18:20
+good. Um okay, so actually I don't even
+18:23
+think you need to change some of these
+18:24
+animations, but it's if you want to. Uh
+18:27
+main thing is because Yeah. So thing.
+Making More Characters
+18:30
+Okay. So thing, common rarity, price
+18:32
+250. Okay. So, um, he called it still a
+18:37
+thing game, so that kind of makes sense.
+18:39
+But going into this, it's kind of the
+18:41
+same thing. So,
+18:44
+um, whatever. You can call it thing too
+18:46
+if you want. And you be like be like
+18:49
+call it rare. Okay. But you'd have to go
+18:51
+into rarities and you'd have to go over
+18:53
+here, go down, and you call it rare.
+18:56
+Okay. Once you call it rare, you go
+18:57
+chance be like there's a I think it's
+19:00
+Oh, no. There's 100% chance. So, 50,
+19:02
+right? Might be. Um, rare, we'll go like
+19:04
+blue. Um, probably actually better.
+19:06
+Let's make a few more and test this out
+19:08
+real quick. Um, we'll go like legendary.
+19:12
+Uh, oh yeah, and then there's like
+19:13
+mythic, right? Is that what they do? Um,
+19:15
+so we'll go like legendary and then
+19:18
+we'll go like uh mythic.
+19:22
+There's like a 5% chance, but we could
+19:24
+turn that up for now. I think it was
+19:26
+like white or something. I don't even
+19:27
+know. We'll go black. Um, so mythic, I
+19:30
+think that's how that works. Um,
+19:33
+but yeah, so based off of the
+19:35
+characters, so this is where you put the
+19:37
+things that that's what this is. So, um,
+19:39
+let's just go like, uh, rare thing. No,
+19:42
+she just go Yeah, think two, whatever.
+19:44
+So, you would name your things here. So,
+19:46
+that's that's what you're doing. Um, so
+19:47
+like we'll go legendary. Yeah. And price
+19:49
+would be like a thousand or something,
+19:52
+you know, money per second, you do like
+19:54
+a 100. Um, and then same thing here.
+19:56
+This is legendary. So like whatever
+19:58
+10,000 and then you go like gives you
+20:01
+$10,000. Um that's 100,000 10,000 sorry.
+20:05
+Um and then you go mythic. So we'll go
+20:06
+fig four and we'll go uh mythic prices
+20:10
+like whatever million you know whatever.
+20:13
+So you could just keep adding things is
+20:14
+how this one works. Um I definitely
+20:16
+would probably have to make a tutorial
+20:17
+on how to do like special effects and
+20:19
+like the way you know the things it does
+20:21
+like mutation. Well it has mutations but
+20:24
+you you get my point. Um, so like
+20:26
+there's like Okay, so this would be back
+20:28
+to 5%, let's say. Um, but yeah, so
+20:31
+mutations I mean just like special
+20:33
+things. So like this is just like one
+20:34
+color, but you want to make more. Um,
+20:36
+okay. So you do that. Uh, perfect. Go
+20:39
+through here. Um, I don't know if you
+20:41
+have to change these. I have to look at
+20:42
+the animations cuz these idle and walk
+20:44
+animations should be the Roblox one it
+20:46
+looked like. But I'm curious what the
+20:48
+icon is though. So either way. Okay. So
+20:51
+you have that rarity mythic blah blah
+20:52
+blah. Um, so if I were to play it again,
+20:54
+I think it has it offline as well. Yeah.
+20:58
+So, offline money. So, that's actually
+21:00
+really cool that he did that. Um, but
+21:02
+yeah, basically, as you can tell, um,
+21:06
+get your money collecting and he said
+21:08
+the bat works, so that's good to know.
+21:10
+But, okay. So, let's just see real
+21:12
+quick. Maybe we get one or not. Um, so
+21:14
+thing thing, so just they're all common,
+21:16
+but let's just like give it a sec. Um,
+21:19
+common common prismatic. So, yeah. So 5%
+21:22
+chance of spawning. Got one, which is
+21:24
+kind of nice. Um, and yeah, uh, let's
+21:28
+see. Well,
+21:30
+either way, that's pretty nice. So, one
+21:32
+thing though, too, is also if you want
+21:34
+it to be a model instead of a character,
+21:37
+that's a little bit of a different
+21:38
+tutorial because I I haven't looked into
+21:40
+that yet. Um, but I'll show you guys how
+21:42
+you can customize your character things
+21:44
+because um, depending on how you want to
+21:46
+do it. But, okay. Okay. Well, you can
+21:49
+tell there's pretty rare of a chance.
+21:52
+Um, so that's probably makes sense. I
+21:55
+guess there's 100% chance and 80%. What
+21:57
+did we What did we put it at? The rarity
+21:59
+was 50% chance. You should be getting
+22:01
+one. Maybe it's more than whatever. Huh.
+22:04
+Well, or maybe there isn't the comment.
+22:08
+So, I will check real quick. Just, you
+22:10
+know, sometimes it's best to go like
+22:12
+this. Okay. So, things common rarity.
+22:14
+No, that's right. That's right. Um,
+22:16
+okay. Okay. So, it's probably just the
+22:18
+chances that it wasn't spawning, but
+22:19
+it's okay. I didn't want to waste too
+22:20
+much time. Yeah. So, that's how you do
+22:22
+that. Um, now, when it comes to making
+22:26
+one, I think this is where they are.
+22:28
+Okay. So, you, as you could tell, we
+22:29
+have thing. Oh, that's why. That is why,
+22:32
+actually. Um, I'm pretty sure this is
+22:34
+why. So, um,
+22:38
+yeah, cuz he put the things in here. So,
+22:40
+we have thing right here, but we don't
+22:42
+have thing two, thing three, thing four.
+22:44
+So, that's why they weren't spawning.
+22:45
+Um, so if you guys were to customize and
+22:48
+make your own character, um, there's a
+22:50
+lot of plugins you can use. Um, but like
+22:53
+I don't know if I were to I have this
+22:55
+one kit plugin. Um, but let's just say I
+22:58
+want to insert this. Um, that guy put on
+23:01
+him.
+23:03
+Huh. Yeah. So, I don't know why these
+23:05
+are like this sometimes, but we'll have
+23:07
+to see because it might not stay on, but
+23:09
+let's just see. Um, yeah. So, this uses
+23:12
+Roblox characters. So, um, a model might
+23:15
+be a little different, but just based
+23:18
+off of animations. So, you can use a
+23:20
+model. You can make a model. It's just
+23:22
+it's going to be a little different when
+23:23
+it comes to the animation part because
+23:24
+you're going to have to change and make
+23:26
+animations for a model. Um, but yeah, so
+23:29
+I don't know. So, I guess now we could
+23:31
+probably try this out. Um, I'll also do
+23:33
+just think three and then thing four
+23:35
+just for it. Um,
+23:39
+so we'll go into here, hit home, hit
+23:41
+play. should work now. Um, oh, too many
+23:45
+save things to load.
+23:47
+What the heck? What just happened?
+23:52
+I just got a weird error. Um, okay.
+23:55
+Well, that just happened. Uh, maybe I
+23:59
+did this right. Yeah. Oh, yeah. So,
+24:00
+there you go. Okay. But see how the
+24:01
+glasses were staying? That's cuz I
+24:02
+didn't weld it. U, but you still get the
+24:04
+point. Thing too. Rare. Um, so you have
+24:07
+to make the things as well um in order
+24:09
+to do Okay, we just got a legendary.
+Outro
+24:11
+That's awesome. um 100k. So yeah, and it
+24:14
+shows the thing on it, too, which is
+24:15
+nice. Um but yeah, so that's pretty
+24:18
+nice. Um pretty cool how he made this. I
+24:20
+think, you know, going into this fourth,
+24:22
+if you guys want more of like a better
+24:25
+tutorial on certain things and I hope
+24:27
+you guys kind of get the point of how
+24:28
+this works. Um so you're going to have
+24:30
+to go in between and make all of these.
+24:32
+Honestly, I think the best thing to do,
+24:34
+and just hear me out real quick, is um
+24:38
+go in between, make your base final, and
+24:41
+when you make these bases, you can
+24:43
+actually just go and copy like, so let's
+24:45
+say this is base one and then base one
+24:47
+and bases, you can actually just do Ctrl
+24:49
+D and completely like copy and paste it
+24:52
+and go all the way around. So, honestly,
+24:54
+probably wasn't best I showed you how to
+24:55
+make them. You should probably start
+24:56
+with just one first and then go based
+24:58
+off that. But yeah, so that's it you
+25:01
+guys. That's how you make a little S
+25:02
+brain rock game. Um, if you guys want
+25:05
+like a tutorial on certain things, just
+25:07
+leave them in the comment description
+25:09
+and, you know, just let me know what you
+25:10
+guys need and want because I have so
+25:12
+many more uh I have so many more things
+25:14
+I could do for you. But, um, yeah, you
+25:17
+guys, I hope you did enjoy and I'll see
+25:19
+you in the next video. Bye-bye.
+25:28
+girl.
+25:34
+Girl,
+25:38
+girl, girl.
+
+
+
+
+PART 2:
+
+Hey there, welcome to my channel. I'm on
+0:01
+the mission to hit 100,000 subscribers
+0:03
+before the end of 2025. And your support
+0:05
+means everything. So don't be that
+0:07
+person who watches but doesn't
+0:08
+subscribe. Thanks for being here and
+0:10
+let's jump right in.
+0:12
+[Music]
+0:13
+Hello everybody. Yes, Pivia and welcome
+0:15
+back to another tutorial on the Twin
+0:17
+Plays channel. In this video, we're
+0:19
+going to be talking about how to make
+0:20
+base like lasers, you know, doors um for
+0:23
+the brain rock kit. Uh, a lot of people
+0:24
+are asking for this little tutorial. So,
+0:26
+I want to bring out a lot of stuff and
+0:27
+I'm going to be making more tutorials.
+0:29
+Um, if you're new to the channel, feel
+0:30
+free to hit that subscribe button and
+0:31
+turn on post notifications. It means so
+0:33
+much to me, everybody. Um, but yeah,
+0:34
+we're going to get straight into this.
+0:36
+So, in the last video, we talked about
+0:38
+just going into like making the game.
+0:41
+Um, not too hard, not too crazy, but I
+0:44
+did change a few things and I'm going to
+Setting Up
+0:45
+show you what I did, okay? And how this
+0:46
+works. Um, so let's just go off of kind
+0:49
+of what we did last time, okay? You guys
+0:50
+probably had um this game and you had
+0:53
+the like map. Okay, so in the map uh
+0:57
+this was TGO, so there's a lot of stuff
+0:59
+in there, but what I did um and make
+1:01
+sure you guys ungroup and follow what we
+1:03
+did in the last tutorial. Um basically
+1:05
+what I did, I'm going to go over a few
+1:07
+things first before we kind of hop into
+1:08
+like making the lasers. And I just want
+1:10
+to make sure you guys know what's going
+1:11
+on. So um you got to have the way
+1:13
+points. Make sure they're on, you know,
+1:15
+the start and then waypoint one and
+1:17
+waypoint two is at the end. Okay? So,
+1:18
+just make sure those are there. Now,
+1:20
+what I recommend, I don't know why I did
+1:21
+this in the beginning, but make sure you
+1:23
+just start off with two bases. Just do
+1:24
+two bases because I'm going probably
+1:26
+making more videos on um this kit, and I
+1:28
+just want to make it easier for you
+1:30
+guys. Um but start off with two bases
+1:32
+just minimum, and then we'll duplicate
+1:34
+it and go on from the end when
+1:35
+everything's set up. Um like cuz like
+1:37
+right now, we have all these GUIs that
+1:39
+we're going to actually delete and fix.
+1:40
+Um but yeah, so we'll we'll go into that
+1:42
+in a second here. Um but so with the map
+1:47
+um what I did personally is I actually
+1:49
+just have the bases delete the other map
+1:52
+bases or whatever and just have um the
+1:54
+main ones. So you should have these and
+1:56
+inside what I did so um I'll show you
+1:59
+this one more time. Um in the map in
+2:01
+here there's these bases base one
+2:04
+barriers main lasers. So, what I did is
+2:07
+I actually just dragged um so if you
+2:10
+actually have these lined up, let's say
+2:11
+like you had the bases lined up, I just
+2:13
+dragged this lasers folder into the base
+2:16
+one. Okay, let's say. So, drag it into
+2:19
+base one. Um, and I'm going to show you
+2:20
+again real quick what that does. But,
+2:23
+um, so that once you do that, you should
+2:24
+be good. You don't need anything else.
+2:26
+Um, he had it set up a certain way, but
+2:28
+for now it's okay because, you know, we
+2:31
+we're not going to be doing that. But
+2:32
+we're going to make it a very very
+2:33
+simple way because they already have the
+2:35
+door locking working in the guy's kit in
+2:37
+Golden Milk's kit. Um, but we just need
+2:40
+to customize it. So, when you drag the
+2:42
+lasers in, um, call it laser, by the
+2:45
+way. Um, just rename it to laser. Um, it
+2:48
+should just look like this. You should
+2:49
+just have laser and you should have all
+2:50
+these things. There is doors door one or
+2:52
+whatever. I don't even know how that
+2:53
+works, but we'll talk about that later.
+2:55
+Um,
+2:57
+so going into that, you should have
+2:59
+everything. It should look like this.
+3:00
+Collect zone. I just want to recommend
+3:02
+saying this again. Um, make sure this is
+3:04
+at the bottom of the collect zone. It
+3:06
+should just be right here. Um, so once
+3:08
+you do that, you should be good. And,
+3:10
+um, yeah. And then friends, uh, this is
+3:13
+another button that we can mess around
+3:14
+and change. So like over here, uh, you
+3:17
+can actually have it so your friends are
+3:18
+allowed or not. Um, I don't really know
+3:21
+how that works, but um, guessing I'm
+3:23
+just going to go like this just in case.
+3:25
+I think it's the right way facing. Um,
+3:28
+oops. Um, okay. So, we'll go into that
+3:30
+later. And then we have the lock button.
+3:31
+So that's what I was also going to say.
+3:33
+And actually it is facing this way. So
+3:35
+I'll go like that. And then just make it
+3:38
+smaller. Um I think you base lock it
+3:41
+right here if I'm correct. I think this
+3:42
+is where it's supposed to be base lock.
+3:44
+I'll have to go play steel brain rot
+3:45
+because I've kind of forgot. Um but
+3:46
+yeah. So go like that. And then owner.
+3:49
+Um which we'll talk about. We'll fix
+3:50
+that later. Spawn. This is where you
+3:52
+spawn. Um and we'll change all the
+3:54
+transparencies because you're going to
+3:55
+want to do that. Um I think it already
+3:57
+mic does it for you, but we'll check
+3:59
+that later. But um yeah. Okay. So, laser
+4:01
+all good. But one thing you do need to
+4:03
+do is you need to set the transparency
+4:04
+to one. So, go and highlight all of
+4:06
+these and set it to one. Okay. Once you
+4:09
+set it to one, um it's going to show it
+4:11
+it's invisible. Okay. So, this basically
+4:13
+the bases start off unlocked. Um I'm
+Example
+4:16
+pretty sure they start off locked
+4:17
+actually though when you play. So, we'll
+4:18
+test that. But yeah, so I'm going to hit
+4:21
+play and show you actually real quick.
+4:22
+Um and then we'll go into the
+4:23
+programming part. Um okay. Yeah. So, I
+4:26
+was right. They uh Oh, this is base two.
+4:29
+Why does that always happen? Um yeah, so
+4:32
+base 2 uh as it is. Um basically we uh
+4:36
+we started off locked. So yeah, as you
+4:39
+can tell it says locked. Um all these
+4:41
+are popping up. I can walk through them
+4:43
+because I'm the owner. Um if I were to
+4:46
+have my friends allowed um my friends
+4:48
+would allow to be able to walk through
+4:50
+as well. Um but yeah, so watch. It's
+4:52
+going to disappear. There you go. Um and
+4:54
+what we're doing and the way I program
+4:56
+this is I just made it as simple as
+4:57
+possible. I'm actually just making these
+5:00
+parts transparent and not transparent.
+5:02
+That's all I'm doing. I'm not even doing
+5:03
+can collide. I'm not doing anything else
+5:04
+just because there's no reason to do
+5:06
+that. And then you hit locked and you go
+5:08
+through right here. Um reason I say that
+5:10
+is because he uh Golden Milk already
+5:12
+made the kit. So uh in each of this you
+5:14
+have a door. So this big door right here
+5:17
+which I can put on transparent is
+5:19
+actually already blocking players. So
+5:20
+you wouldn't even need to worry about
+5:21
+anything as this is the main door that's
+5:23
+going to block things. So, um, in your
+5:26
+laser, uh, make sure base 2, bass one.
+5:28
+Like I said, honestly, you can just do
+Scripting
+5:30
+one base and duplicate it and call it
+5:31
+bass two and you're good. Um, but what
+5:34
+you're going to have to do, and so how I
+5:36
+figured this out, is um you're going to
+5:38
+head over to uh the player script. Okay,
+5:41
+so in here, I want you guys to pay
+5:45
+attention to my screen because uh you're
+5:46
+going to have to copy and paste all this
+5:48
+and write it in in your own words as
+5:49
+well. Um what I did is you know I was
+5:52
+like okay he goes through here we have
+5:53
+base he has doors and there's door one.
+5:56
+So I was like okay there's got to be
+5:57
+something in the scripts that is just
+5:58
+changing the transparency that's
+6:00
+changing the can collide all that. So I
+6:02
+searched up door and find replace all
+6:04
+which is something that's very useful in
+6:05
+programming. So go click this button it
+6:07
+should be right here. Okay. And so I
+6:09
+like I said I searched door and boom it
+6:11
+was only one script that had it. So this
+6:13
+is the script that handles all the
+6:14
+doors. Now, he does a lot of things with
+6:16
+setting properties and blah blah blah
+6:18
+blah blah, but we don't need to worry
+6:19
+about that. The only thing we needed to
+6:21
+look at was Okay, so I scroll down to
+6:23
+the bottom and I'll give you an example
+6:24
+real quick and which I'll talk to you
+6:25
+guys about what you need to make. Um, I
+6:28
+just saw that, you know, he went through
+6:29
+here. Let's say he did a for loop. He's
+6:31
+going in between the base. So, he's
+6:32
+going to do a four underscore and then a
+6:34
+base, which we're going to go inside,
+6:36
+grab the base, and get all the children.
+6:38
+So, basically, we're going to call base
+6:39
+as in this is the base of this file. Um,
+6:43
+so the children of that. Um, then we're
+6:46
+going to go and find the door by going
+6:47
+into base dot door. So base doors and
+6:52
+then we're getting the children of that
+6:54
+and then door can collide blah blah blah
+6:56
+blah blah. Um, this is actually very
+6:58
+useful because if we do do rebirth and
+7:00
+all those stuff and do new floors, it's
+7:02
+helpful because you can actually um use
+7:05
+this script to just by just like you
+7:07
+could just copy this and call it door
+7:09
+two or whatever and it do the same
+7:10
+thing. Um, and yeah, so then he's just
+7:12
+setting the descendant and can collide
+7:14
+and transparency. So this is more of the
+7:15
+functions of just doing the visual
+7:17
+appearance. Now, one thing you do need
+7:19
+to change though is I put in edit here
+7:22
+just so I don't forget, but this is what
+7:24
+I added. Okay, so you're just going to
+7:26
+add this copy. You can pause pause the
+7:28
+video if you want and just copy this
+7:29
+down. Um, look at the lines of code
+7:31
+right here as well. This might help you
+7:32
+out if you're a little lost. This line
+7:34
+of code is where I'm at in the script.
+7:36
+So um, looks 121. So just put it right
+7:39
+here. And yeah, so we're doing four_ler
+7:42
+in I pairs and we're going to go through
+7:43
+the for loop and we're going to go base.
+7:45
+laser. So we're finding base. laser get
+7:48
+children. So everything in here, we're
+7:50
+going to go through that in a for loop.
+7:52
+And if laser is a part, which it is, but
+7:54
+just in case um then laser.transparency
+7:56
+equals one. So we're just we're just
+7:57
+setting the transparency. That's all
+7:58
+we're doing. We're not um we're not
+8:00
+doing anything else. We're just setting
+8:01
+the transparency blah blah blah. And as
+8:03
+you can tell right here, this is
+8:04
+actually at the bottom of the script. So
+8:05
+that means it's basically going to start
+8:07
+right away. That's going to make it
+8:08
+transparent to uh um one. So, going here
+8:12
+now, we're going to go to the other
+8:13
+parts that I did. So, um let's just go
+8:15
+up. Maybe we'll find the first one. So,
+8:18
+okay, first one's right here again.
+8:19
+Second one, I mean, sorry. Um in here,
+8:24
+like I said, I was going through and I
+8:25
+just had to find anything that was
+8:26
+related to this because he does it
+8:28
+multiple times. We just copy and paste.
+8:30
+So, you you're good to just go find this
+8:31
+script. This looks like it was at 984.
+8:33
+Just go below and you just copy and
+8:35
+paste what we wrote. Um, so boom, you're
+8:37
+done. Uh, I'm not done yet, but one
+8:39
+more. A few more. Uh, then you go up
+8:41
+again. Going to keep scrolling. And then
+8:43
+boom, we have another one right here.
+8:44
+So, edit here. I just put that here. Um,
+8:46
+but 8:14. So, around, yeah, right here.
+8:49
+8:22 is when he does the other one. But
+8:52
+this one, he sets more of the properties
+8:54
+and does more of the like uh client side
+8:56
+of things with friends walking through,
+8:58
+making sure it's locked, blah, blah,
+8:59
+blah. But this one's actually enabling
+9:02
+it. So, what you're going to do is
+9:03
+you're going to copy and paste it. And
+9:05
+then you're actually going to set the
+9:06
+transparency to uh.3. Reason we're
+9:09
+doing.3 is so it looks like it's like
+9:10
+somewhat transparent, but not, you know,
+9:12
+cuz it looks like a laser. Um, but yeah,
+9:14
+then you're good. Oh, then you're good.
+9:16
+And uh that's that one. And we go one
+9:18
+more up just like right above it. It's
+9:20
+going to be 792 on the code line. And
+9:23
+you're just going to copy and paste what
+9:24
+we originally wrote and you should be
+9:26
+good. It's the same thing, just
+9:27
+transparency equals one. And I think
+9:30
+that was it. So, let's double check
+9:31
+again. Just make sure.
+9:34
+Um, scroll through up here and make
+9:37
+sure. Uh, yeah, that's it. So, yeah, you
+9:40
+can go here also and double check.
+9:41
+Transparencies. Boom, boom, boom, boom.
+9:43
+These are all of them. So, we should be
+9:45
+good. Yeah, we we covered it. All right.
+9:48
+So, yeah, that that's it, you guys.
+9:49
+That's how you make the little base
+9:51
+lasers and stuff. Um, I'm going to make
+9:53
+more tutorials on how to do everything
+
+
+PART 3:
+
+Hey there, welcome to my channel. I'm on
+0:01
+the mission to hit 100,000 subscribers
+0:03
+before the end of 2025. And your support
+0:05
+means everything. So don't be that
+0:07
+person who watches but doesn't
+0:08
+subscribe. Thanks for being here and
+0:10
+let's jump right in.
+0:12
+[Music]
+0:13
+Hello everybody. Yes. Yeah, and welcome
+0:15
+back to another tutorial on the Twplay
+0:17
+channel. In this video, we're going to
+0:18
+be quickly talking about how to, you
+0:20
+know, change your base GUIs, all the
+0:22
+things, and making sure that it works,
+0:24
+making sure it looks good. And yeah,
+0:26
+this kind of goes over the GUIs and
+0:28
+everything. This is a live tutorial, so
+0:30
+I'm actually just going to go this
+0:31
+through this with you. Um, no edits and
+0:33
+everything. So, we're just going to go
+0:34
+do this and um, you can just follow
+0:35
+along. Um, if you are new to my channel,
+0:38
+feel free to hit that subscribe button
+0:39
+and turn our postifications. It means so
+0:40
+much to me. We're trying to get to
+0:41
+100,000 subs and um, yeah, I have a lot
+0:44
+of tutorials coming. Um, okay. So, going
+0:46
+into this, we're going to go into here.
+0:48
+Now, if you haven't gotten this kit
+0:49
+already or not, um, it should be all in
+0:51
+the description. Uh, make sure you guys
+0:53
+are joining the Discord because I have a
+0:55
+lot of stuff in there as well and we can
+0:56
+help you out. Um, so yeah, just feel
+0:58
+free to join the Discord if that's
+0:59
+helpful for you guys. But, um, yeah,
+Watch
+1:01
+going into this, last time we talked
+1:02
+about the laser doors, so you should
+1:03
+have that set up. Um, a lot of people
+1:05
+are saying they have issues with like,
+1:06
+oh, I don't start with money. Oh, I
+1:08
+don't start with this. Um, I don't know
+1:10
+why that's happening. Uh, either you
+1:12
+don't have your game settings, you
+1:13
+didn't watch the tutorial, but go into
+1:15
+security, make sure these are on, and
+1:16
+then yeah, just make sure you set up. I
+1:18
+mean, honestly, it it should just work
+1:20
+right away if you just put the kid in
+1:22
+your game and you turn on the security.
+1:24
+So, if it's not happening, you have
+1:26
+something else in your game and that's
+1:27
+bugging it cuz it shouldn't be working
+1:28
+like that. Okay. So, going into this,
+1:31
+um, as you can tell, we have base one
+1:34
+and base two. Uh, I think for now, I'm
+1:37
+actually going to delete base two
+1:39
+because I want to work on base one and
+1:41
+I'm going to show you what we're going
+1:42
+to do. So, let's say in here. Okay. So,
+1:44
+I I forgot to let you know. Yeah. Um,
+1:46
+oh, actually map builds. Oh, wait. No.
+1:48
+Yeah. Yeah. Yeah. Always get extra.
+1:51
+Okay. So, yeah. So, TGO kind of had this
+1:52
+in the last one. So, um, we're just
+1:55
+going to delete all of the stuff that he
+1:56
+has with the like, um, UI and stuff
+1:59
+because we don't really need it. Um, I
+2:03
+mean, I I love his personally, but, you
+Owner GUI
+2:05
+know, for now, we'll just keep it the
+2:06
+way it is. Okay, so um, going into this.
+2:09
+Yeah. Um, basically,
+2:12
+we can go we have signs right here. So,
+2:14
+collect zone. Uh, we'll just, you know,
+2:16
+you can just get rid of that surface GUI
+2:17
+signs part. Um, I do like the way he has
+2:20
+like the the players thing and stuff.
+2:22
+So, I'll have to talk figure that out
+2:25
+later, but we'll fix that. Yeah. So,
+2:27
+thumbnail text label. Okay. So, we're
+2:29
+actually going to keep these because I'm
+2:31
+probably going to want to configure
+2:32
+this. Um, and then base sign. Uh, I
+2:35
+don't know what that's for, but we can
+2:37
+delete this cuz we don't need that. Um,
+2:40
+I like this though to be honest. Um, so
+2:42
+what you could do actually is we can
+2:45
+actually go right here and put this in
+2:46
+the base. Get rid of Oh, no. Keep those
+2:49
+there. Okay. So, yeah, this is owner.
+2:51
+So, it's owner. Um, and then there is a
+2:55
+thing uh going through here. So, I
+2:58
+actually haven't looked at this stuff,
+3:00
+but you know, it's nice when it comes to
+3:01
+programming and learning how to do
+3:02
+things. You kind of learn it yourself.
+3:04
+Um, but I think it's insert. Where are
+3:06
+they at? Somewhere. Thought I saw
+3:08
+insert. Yeah. Okay. So, owner GUI. This
+3:11
+is a surface GUI. So, let's compare the
+3:13
+two real quick. Um, make sure this is
+3:15
+Yeah. So, this is a Surface GI as well.
+3:17
+Okay. Okay. So, he has owner GUI and
+3:19
+then um display name. So, this goes
+3:23
+here. So, you go here and you'll call it
+3:25
+uh display name.
+3:29
+And you'll guys, you'll see what I'm
+3:30
+doing in a second here. So, actually,
+3:32
+yeah. So, we'll go owner. Get rid of
+3:34
+that. We're going to call this owner.
+3:37
+Oops. Make sure that's right. Um so,
+3:39
+once we call that owner, um don't worry
+3:42
+about the thumbnail for now. We'll fix
+3:44
+that later. And then this we're going to
+3:46
+drag this into here. Okay. Uh make sure
+3:49
+these guys are aligned. Looks good.
+3:51
+We're going to call it um owner GUI. So
+3:54
+using we're going to be using uh to go
+3:56
+like I was trying to tell you. Um and
+3:59
+actually I forgot to mention to uh yeah
+4:02
+actually no it's good to I think you
+4:04
+could honestly do that. Up to you but
+4:07
+yeah actually no we're going to leave it
+4:09
+like that. Okay. Owner GUI. Perfect. Um
+4:11
+okay. So that's good. All set up now
+4:14
+with that. Um, so we have the multiplier
+Multiplier GUI
+4:16
+right here. So, uh, this is a billboard
+4:19
+UI as well. So, we can go into here and
+4:22
+see, uh, where does they do that? I
+4:24
+think it was collect zone is what
+4:26
+happens. Um, see, oh, no, you can just
+4:29
+search up multiplier.
+4:31
+Um, so multiplier text. Uh, let's see. I
+4:36
+think it's right here. Collect all blah
+4:38
+blah blah blah blah. No, it's going to
+4:39
+be an index probably.
+4:42
+Maybe. not know what's in players. Duh.
+4:44
+This is where he handles everything. Uh
+4:45
+multiplier maybe. Nope. Okay. So, no.
+4:49
+I'm just doing this wrong. Collect zone.
+4:52
+Okay. Go right here. Um collect zone.
+4:57
+Just got to check some things real
+4:58
+quick, you guys. Um insert. Duh. It's
+5:00
+the insert module. I'm being stupid.
+5:02
+Okay. So, yeah. So, it uses the
+5:03
+multiplier. The multiplier is going to
+5:04
+be putting into the collect zone. So,
+5:07
+um, what we can do and just see real
+5:09
+quick is, um, another same thing exactly
+5:13
+what we just did. So, um, looking at
+5:16
+this, sorry guys, we have where's the no
+5:21
+platform signs
+5:23
+main structure. Oh, multiplier mount.
+5:26
+Okay, so he has multiplier mount. Okay,
+5:28
+this is another billboard UI. So, let's
+5:30
+say you put that in collect zone. Let's
+5:31
+just look real quick. Um
+5:34
+cuz this is where you would see if Yeah.
+5:37
+So it's like that. Okay. We we don't
+5:39
+need to worry about that. So we can just
+5:41
+delete this. And what we can do, sorry
+5:43
+guys, you can drag this and put it in
+5:45
+collect zone if I'm right. Yes. Think
+5:48
+so.
+5:50
+Oh, but it's not enabled. Okay. So,
+5:54
+yeah, it's kind of in a bad position. Um
+5:57
+and also too, let's put this out right
+5:59
+here. Let's go a little bigger. um just
+6:02
+because
+6:03
+might as well um make it the same size.
+6:06
+And then yeah, multiplier GUI. What I
+6:09
+would recommend um doing this is
+6:11
+probably be a little odd. Let's Y. Yeah,
+6:14
+we'll go one. Maybe we'll go like four
+6:17
+on this, you know, just or like three.
+6:20
+Maybe go like three. And then I don't
+6:22
+know why the size is so small, but um UI
+6:25
+list layout it looks like. Um, so I
+6:29
+don't know. I can just make it bigger.
+6:32
+Um, I think it'll just automatically
+6:35
+Yeah, there we go. Um, I'm going to go
+6:36
+like that. That's That's a little
+6:38
+better. Okay. So, then you just put this
+6:40
+back into uh insert service. Okay. And
+6:43
+then, um Okay. Yeah. So, we have
+6:45
+everything good right here. This is the
+6:48
+Which button is this? This is the spawn.
+6:50
+Okay. A spawn. Uh you can just set that
+6:53
+to one transparency. Once again, uh, I
+6:55
+would put this like right in the middle,
+6:57
+maybe. I don't know where they normally
+6:58
+spawn. Maybe you spawn outside of your
+6:59
+base. I don't know if you guys know. I
+7:00
+think you do. So, maybe I'll put the
+7:02
+spawn just in case outside. Um, can't
+7:04
+collide off. That's good. Um, and then
+Testing
+7:06
+we have the owner. Uh, we already did
+7:08
+that. The lock. Okay. So, the lock is
+7:10
+what I was a little confused on. Let me
+7:11
+see. I don't remember if it breaks if I
+7:13
+don't have two bases. So, see.
+7:16
+Uh, yeah, it doesn't. Okay, that's good.
+7:18
+Okay. Yeah. So, money multiplier. All
+7:20
+right, that looks good. I like that.
+7:21
+It's like up here. We have the collect
+7:22
+zone. Looks better. Um, and then the
+7:24
+owner. See, it looks it looks good now.
+7:26
+Um, and we have the thumbnail still. So,
+7:27
+we can change that. Um, but going into
+7:30
+this. So, how does the lock work? Yeah.
+7:31
+Okay. It looks like that. It looks
+7:32
+pretty bad. Okay. And then we have
+7:34
+friend. So, if you hit friend allow, I
+7:36
+just want to see
+7:38
+it's allowed. Oh, yeah. It's on the that
+7:40
+side. Okay. So, we'll fix that. Okay.
+7:42
+So, yeah. Now, we just need to delete
+7:44
+this part. So, um, sorry about that.
+7:48
+Okay. So, where was I doing? Oh, yeah.
+7:51
+Going into here. Um this is the other
+7:54
+thing. So oh yeah and multiplier mount
+7:56
+guys you can just delete that now. Um
+7:58
+walls will get unnamed barriers and
+Lock GUI
+8:01
+stuff. Platform signs. Uh lock. Okay.
+8:05
+Lock. Yeah. So in here in lock, you're
+8:07
+just able to delete this. Uh you're
+8:09
+good. Oh, not all of it. Just delete the
+8:12
+text holder. You want to delete the text
+8:13
+holder because you still want that
+8:14
+little design. Uh but this is the lock
+8:16
+thing. So uh actually you just go right
+8:18
+here. Um, and then honestly what I
+8:20
+recommend just following this, you go
+8:22
+right here. I think this is how the lock
+8:24
+works in girl I mean in uh steel brain
+8:26
+raw. I don't know. Um, you guys will
+8:28
+have to visually do it yourselves but
+8:30
+yeah. So put that to one and then the
+8:32
+friends button like honestly I think cuz
+8:34
+it's like an actual button. Oh yeah. Let
+8:35
+me just don't want to forget. Um, so I'm
+8:38
+going to turn this 90° and we'll put it
+8:40
+right there and we'll go out. So now
+8:43
+that what's going to happen is going to
+Friends GUI
+8:44
+be a sign right here. So, if you want to
+8:46
+make something like fun, I guess for
+8:47
+just cool, I guess, and make it look
+8:49
+like it's like a button, you know, you
+8:50
+could go right here. Let's just do this
+8:51
+real quick. Let's just build something
+8:53
+for fun. Um, so we'll just like
+8:56
+honestly, yeah, like literally as simple
+8:58
+as this. It's like a little button you
+9:00
+walk up to and you can enable it or not.
+9:02
+Um, uh, yeah. So, just make sure it's
+9:04
+anchored. And then, um, I don't know. I
+9:08
+mean, you could put like corner wedge or
+9:11
+something on it. Oh, yeah. Actually,
+9:12
+let's just do this. Um, then you go like
+9:14
+this.
+9:15
+You can make it like somewhat good, I
+9:17
+guess. Come on, twin, do better. Um, so
+9:20
+we'll go like this. We'll put like a red
+9:22
+button on it. Okay. Like just like that.
+9:24
+Just something simple. And then what you
+9:26
+can do, just uh group these together.
+9:29
+Put this in uh whatever signs. It's an
+9:32
+extra thing. Don't worry about it. Um
+9:34
+then friends, what you're going to do is
+9:36
+you're going to drag this here. So big
+9:41
+part I didn't realize. Um,
+9:44
+okay. Now, just following the red thing.
+9:46
+So, just go like this. And what I was
+9:48
+trying to tell you is there is a sign
+9:49
+right here. So, it's like a little green
+9:50
+thing. Um, so yeah, you do want to just
+9:53
+follow what I'm doing. Um, and then just
+9:54
+have this out just a little tiny bit.
+9:56
+Just like that. Um, and boom. And then
+9:59
+you could just turn the transparency to
+10:00
+one. And that should be all the GUIs
+10:03
+except there are these ones which we'll
+10:05
+talk about. But yeah, so I mean same
+10:06
+thing goes for this. So, um, slots.
+10:10
+Okay. I probably should have done this a
+10:11
+little I probably Yeah. Well, we might
+10:13
+have to do it a little uh let's like try
+10:15
+it with other people first. But we'll go
+10:18
+over and make the user thumbnail thing
+10:19
+in a sec. But okay, you have everything
+Testing
+10:22
+going right here. I'm going to have to
+10:24
+fix this too because I realized some of
+10:25
+the things. But as you can tell, we have
+10:27
+money multiplier. Everything's good.
+10:29
+Looking good. Um Oh, this does look like
+10:32
+crap though. So, um and see how it's
+10:34
+like a little un whatever. We'll fix
+10:36
+that. So, um and yeah. Oh, is this
+10:38
+button sideways? Oh, okay. I need to
+10:40
+change it one more uh to the right.
+10:42
+Okay. And then friends. Yeah. So, okay.
+10:46
+Let's do that real quick.
+10:48
+Um it's all about testing, guys. You
+10:51
+know, this stuff happens. So, just test
+10:52
+your game out. See what makes it work
+10:55
+and what looks good and then you go from
+10:57
+there. Um okay. So, we'll put this back
+10:59
+right here. Blah blah blah blah. And
+11:01
+then what you can do, sorry I keep
+11:03
+forgetting guys. Um so, there's the
+11:04
+Surface GI. So, if you go to friends,
+Friends GUI
+11:06
+that's going to be on there.
+11:09
+Where's that at? Oh, wait. No. Billboard
+11:12
+UI. Let's do this one.
+11:14
+Oh, I keep forgetting they're not
+11:16
+enabled. Okay. So, yeah. So, it's going
+11:18
+to be right here. So, um I don't know,
+11:22
+honestly. Like, maybe just go out a
+11:24
+little bit. Oh, I know. This is Let's go
+11:26
+stud offset as well. Um, actually, no,
+11:28
+you can actually just go always on top.
+11:30
+What am I talking about? So, do that.
+11:31
+Turn that to always on top. That's
+11:33
+actually good. Um, and then max
+11:35
+distance. I would I don't know why it's
+11:37
+50. Holy crap. Just do like 10, I think.
+11:39
+Yeah, 10's perfect. Um, so that just
+11:42
+makes it so it doesn't see as far. And
+11:44
+then I don't know if there's a proximity
+11:45
+prompt that he has. I wish I could find
+11:47
+that, but max distance for that needs to
+11:49
+be turned down, too. Um, lock GUI, same
+11:52
+thing. Like I would do 10. Um, uh, yeah,
+11:54
+I'm going for this. We can put this into
+11:56
+lock and look at how it looks. Um, make
+11:58
+sure it's enabled. Um, wait.
+12:03
+Oh, yeah. Did I turn off friends GUI?
+12:07
+Whatever. So, okay, back into lock.
+12:09
+Sorry, guys. Um, that was weird it was
+12:11
+doing that. Okay, but either way, I same
+12:13
+thing for this. I'm going to make it
+12:14
+like 2 by 2 by zero. So, it's going to
+12:17
+be a little bigger because I didn't like
+12:19
+that. And that's good for 10. Um, and
+12:22
+then put this back into insert. Um,
+12:24
+okay.
+12:26
+Yeah, that looks good. Okay. So, we can
+12:28
+just uh publish to Roblox once you're
+12:31
+done with that. Um, okay. Okay. And then
+12:34
+now, yeah, what I would do is actually I
+12:37
+think we can actually once again, sorry,
+12:39
+guys. Um, thing GUI. Yes. So, I think
+12:42
+these are the Oh, no. That's the thing
+Slots GUI
+12:44
+thing. Okay. Well, okay. So, go into
+12:46
+these slots. Um, I wish I didn't make it
+12:49
+like this, but either way, you can just
+12:52
+go, honestly, you can actually go like
+12:53
+this. This is going to take a second,
+12:55
+but we'll do this. So, configuration
+12:56
+occupy blah blah blah. Just go in here.
+12:58
+Let's get all of them real quick. Blah
+13:00
+blah blah. Uh,
+13:04
+okay. And then transparency, we'll set
+13:06
+that to I'm pretty sure they get already
+13:08
+transparent when we dab them in, but we
+13:10
+should be okay. And then now now it's
+13:12
+basically set up. So now we have
+13:14
+everything kind of set up and looking
+13:15
+good. Um, so going over here, we can go
+13:19
+and do base two. And then, um, that
+13:23
+should be good. So we're just save that
+13:25
+real quick. Um,
+13:28
+yes. Okay. So, going off of that, I
+13:31
+didn't set up the uh
+13:34
+display name, right? What was it called?
+13:37
+User display name text player text.
+13:40
+Okay, this is the update money
+13:42
+leaderboard. No. Oh, that's moneyboard
+13:45
+steals leaderboard. Leaderboard
+13:46
+leaderboard. Okay, this is the GUI. Um,
+13:50
+yeah. So, right here, um, I actually
+13:52
+will probably use what I have in grow
+13:54
+garden real quick, but um, just because
+13:56
+I don't want to type it all up, but
+13:58
+going into this. Sorry guys, I got to
+Scripting Owner Icon
+14:01
+find that uh thing. What? I'm like
+14:03
+stupid. Oh, insert. Okay, owner GUI
+14:05
+display name thumbnail. Okay, so we do
+14:07
+thumbnail. So, it looks like Yeah, it's
+14:10
+just this. Okay, perfect. Easy. So,
+14:14
+you can just go right here and we could
+14:15
+just go uh owner GUI uh thumbnail.
+14:21
+No, actually, yeah. Sorry, guys. Um
+14:24
+thumbnail
+14:27
+equals RGY
+14:30
+thumbnail.
+14:33
+So, we'll go into that and then uh
+14:41
+image.
+14:42
+No, let's just do thumb. That's good.
+14:44
+Okay. So, um I'm actually going to go
+14:46
+and grab I think I have it already
+14:48
+saved. Let's just double check friend
+14:49
+boo player icon. Reason is I don't want
+14:52
+to type this all up. And there's
+14:53
+actually a whole thing on this as well.
+14:54
+Um which is nice. But uh right here
+14:58
+image,
+15:02
+no services.
+15:08
+Okay. Billboard UI right here. Okay. So
+15:11
+now what you got to do is all of these.
+15:15
+Okay. So go players. Um Okay. So
+15:18
+thumbnail size blah blah blah blah blah
+15:21
+image label. Um we don't need to worry
+15:23
+about that. Uh
+15:25
+actually we can go like this. So then we
+15:27
+go um we'll go thumbnail. Sorry guys.
+15:30
+Thumbnail image is ready in content. Uh
+15:35
+blah player display name. So player with
+15:38
+a capital looks like. Um
+15:42
+yeah that's that looks like it's um that
+15:45
+should be it. This should just be the
+15:47
+text. So, uh, let let's let's test this
+Testing
+15:50
+real quick and then you guys can copy it
+15:51
+copy this and put it onto your thing.
+15:54
+Um, it might be disabled, so I might
+15:56
+need to like actually make it visible.
+15:58
+Oh, okay. Done. Okay, nice. All right.
+16:01
+So, um,
+16:04
+yeah, I'm going to just take a
+16:05
+screenshot as for the thumbnail,
+16:06
+actually. Um, okay. So, perfect. So, now
+16:09
+that we looking at that, um, let's pause
+16:11
+this and let's actually go back so you
+16:13
+guys can see what we did. Um, sorry, I
+16:15
+know typing it. I just don't memorize
+16:16
+it. So, um, yeah, I mean, you don't have
+16:19
+to call local thumbnail. You could just
+16:20
+do owner UI thumbnail if you want
+16:22
+instead of this. But, um, yeah, this is
+16:25
+this is what we added. So, just feel
+16:26
+free to add this right here. And this is
+16:29
+the, uh, yeah, image icon. And then this
+16:33
+is the owner text.
+16:36
+So, all you have to do is go to players.
+16:37
+It looks like we're at 951. And yeah,
+16:40
+you just fix this right here. And this
+16:43
+will give you um this will give you the
+16:46
+thumbnail for the players icon. Uh and
+16:48
+what we're doing with this, sorry guys,
+16:49
+I'll make it short. Just the headshot.
+16:51
+This is the thumbnail user type. So it's
+16:53
+like when you go to your Roblox profile,
+16:55
+actually is a good example. Um let's
+16:58
+see. Or friends, whatever. It's just
+17:00
+this right here. It's literally this.
+17:02
+And then we grab that headsh shot for
+17:04
+420 x 420. Um, and then we just check by
+17:07
+getting the user thumbnail async and
+17:09
+getting the user ID, the thumbnail type,
+17:11
+the size, and once it's ready, um, we
+17:13
+set that and we set it right here. Um,
+17:16
+but yeah, uh, image transformation. Oh,
+17:18
+yeah. Yeah, perfect. That's perfect.
+Outro
+17:20
+Okay, that's it you guys. Um, yeah, I
+17:23
+think that's it for this tutorial. In
+17:24
+the next one, I'll probably talk about
+17:26
+uh going over like simpler things. What
+17:29
+I mean by that is like the uh, you know,
+17:32
+setting up and making your own
+17:33
+characters. um because I know a lot of
+17:35
+people want those little tutorials. So,
+17:36
+I'm gonna do that. Don't worry about it.
+17:38
+But yeah, I'll see you guys in the next
+17:40
+video. Thank you very much. Have a good
+17:42
+one. Bye.
+18:03
+girl.
+
+PART 4:
+
+Hey there, welcome to my channel. I'm on the mission to hit 100,000 subscribers before the end of 2025. And your support
+0:05
+means everything. So don't be that person who watches but doesn't subscribe. Thanks for being here and let's jump right in.
+0:12
+[Music] Hello everybody. Yes, and welcome back to another video on the Twin Plays
+0:17
+channel. In today's video, we're going to be talking about how to make a steal of Brain Rock game in Roblox Studio. Um
+0:22
+this is also an updated version from the last video. So, we're going to go through a lot of these things as uh we
+0:28
+have a new updated version. Uh yeah, first things first, new channel, hit that subscribe button, turn on post notifications. Uh we're almost uh we're
+Creating Game
+0:33
+getting to the 75,000 mark, which is awesome. But I appreciate all you guys that are watching the video and we're
+0:38
+going to get right into this. So, go and head into your studio. Um if you don't have studio, uh feel free to download
+0:45
+it. Um as well as if you're on studio light, same thing. We're just going to create a base plate. Um once we create a
+0:52
+base plate, I want you guys to head into the description. There is two links that you can get. Um one of them or the other
+0:58
+one you don't have to get. Um but the main one you need the kit of course. Um but yeah, so they should be in the
+Getting Models
+1:04
+description and uh what I mean by that is you should be able to uh just following my oops playing my video.
+1:11
+Following my old video, you can uh just go down here and this was actually made by Golden Milk. right in here. And then
+1:17
+this map kit which uh is just a steel brain rot map if you want. Um but then there's the steel thing uh you know
+1:23
+game. And so this is a and this is updated. And yes uh Golden Milk was the one that made this so credit to him. Um
+1:29
+but he goes over it as well. Okay. So going into this um first things first is
+Game Settings
+1:36
+uh you're going to go to your game settings. So I actually didn't up I didn't you know I created my game yet. Got to hit save to Roblox. Okay. Okay.
+1:42
+And we're going to call this, yeah, uh, stealer brain rot game tutorial part two, I guess. Um, and then you could do
+1:49
+your description here, whatever. Um, you can do console, I think. But yeah, team create, turn that off. Uh, data share,
+1:55
+you can leave it on. Uh, remember, if you want to be under group, go through here. If you want to be under your profile, hit me. Okay. So, you click
+2:01
+that. You should be good. Um, close it out. One more thing you'll need to do is
+2:06
+go back into game settings and, um, communication microphone. Yes. Permissions, private for now.
+2:13
+Monetization, we'll get back into this later. Security, you just need to turn these two on right here. Once you turn
+2:19
+these two on, you should be good. Um, and then yeah, everything else should be good and no worries. So, click save.
+2:25
+Okay. So, um, if you get the model based on how you get it, if you just grabbed it and put in your toolbox, it should
+2:30
+just be guy if you go to the home tab and click toolbox, it should be right here in this right tab. I think you could probably search it up in models,
+2:36
+too, but you go right here, my models, and it's just a steel thing right here. So, feel free to import it. Um, and it's
+2:43
+a big pretty big kit, honestly. So, um, just like this. I think I can even just hit play and it'll work. But, uh, oh,
+2:50
+well, I mean, we need to do stuff, but yeah. So, information, of course, got her stuff in here. Uh, there's a license
+2:55
+now, I guess. Um, but yeah, so either way, uh,
+Ungrouping
+3:03
+yeah, I don't know why he has a license. Uh, it's a free thing. All right. Either way. Okay. So, in workspace, you're
+3:10
+going to drag this into here. Um, so you're going to do that. Lighting, we're going to put this into lighting right
+3:16
+here. Um, if you guys don't see this explorer, by the way, hit model tab, I'm sorry, the view tab, and you need these
+3:22
+two things open, properties and explorers. Make sure those are open. Um, and yeah, then replicated storage. Um,
+3:28
+honestly, the easiest thing to do, too, if you want to just drag this. So, let's just drag them all into a certain one. Uh, server script service. Uh, server
+3:35
+storage. It's probably the easiest thing to do. starter GUI, uh, sound service,
+3:41
+and then starter player scripts. So, starter player, starter player scripts, and then you can actually go right here,
+3:47
+select all of these. You have to ungroup them. And, um, you can just do control U. Um, there you go. So, they're all in
+3:54
+your game. Delete this and you're good. Okay. So, um, I think if I wanted to,
+Testing
+4:00
+um, I'm actually just going to It's on the floor. I think if I'm right, I can actually just hit play and it should work. Um, I haven't tested this thing
+4:06
+out, so I don't know, but let's see. Yeah. Okay, so it works. Um, okay. So,
+4:12
+as you can tell, it says, so we added a lot of stuff to this, which is really cool. Um, but it's it's a pretty simple
+4:18
+I mean, it's not super simple thing, but goes through. So, we have like a collect zone. We have a shops. So, um, he moved
+4:24
+the shops to be like a physical thing, which is kind of cool. It used to be on the left. Um, a Robux shop, and then you
+4:30
+have an index value, the index. So, this is, you know, the things that you need to collect. Um, there also is, which I
+4:36
+really like about this is he added like kind of weather like uh nighttime events. Um, which we can talk about. And then you have rebirth. Um, the friend
+4:43
+boost as well. You have your little bat. So, like, okay, I want this this human. Okay. So, it's going to go it's going to
+4:48
+go to my money thing right here. Um, talks about steals and rebirths. And boom. Uh, now it's in its own slot. Um,
+4:55
+now also what he did is there's little uh the locks. Now he has lasers. So,
+5:01
+that's pretty cool. Um, your base. Um, and then as well as Oh, yeah. So, here's the nighttime event. Um, so I don't know
+5:09
+if they're like that means they're night now or how that works. I think that means they're night. Um, oh, these are
+5:16
+all nights. Duh. I just can't see it. Oh, not enough room. Okay, so I only have one room. Or do I? Yeah, there's
+5:22
+only one slot right here. Okay, well that's okay. So, um, yeah, going into that. Uh, that's about it. That's just
+5:29
+how this kit kind of works. And then we're going to go into making it and all those things. Okay. Um the map though,
+Setting Up Base
+5:36
+if you want, if you want to import that now, you can. I think we should just because. But this is the map. So, um
+5:44
+just part of the kit things you can do with it. Um so, like if I were to move this over here, we'll talk about this,
+5:49
+but um yeah. So, like I can remove one of the second bases and we'll go into
+5:54
+the first base and everything like that. Okay. So going into this um let's go off with started with the waypoints. Okay.
+6:01
+So um waypoint one way point two. So um I'm going to just
+6:06
+drag these guys. Okay. Uh moving down into here. So way.1 wayoint 2 as you can
+6:13
+tell is just self meaning. Um we'll put these all the way down here. Let's go a
+6:19
+little faster. Um just drag that over here. And then these two things, we're going to just turn off the uh
+6:25
+transparency so we don't see them. Uh can collide is off. Good. Anchored. Good. All right. So now we have way
+6:32
+points. Now they should be walking all the across. Going into that. Um let's just do the
+6:38
+other stuff. Um you don't even need base 2. We could uh you know just copy and paste. But for now, yeah, let's let's go
+6:45
+into this. So he actually has floors, which is really cool that I saw. Um, but yeah. Um, let's just go into this real
+6:51
+quick. So, honestly, I'll just move Yeah. base one. Duh. Um, okay. So, we
+6:58
+have floors. Oh, yeah. And then I'll have to remove all these things because there's a few things in here that have
+7:04
+some uh text holders. So, just get rid of a few of these things, which is good.
+7:10
+Okay. Um, yeah. So, okay. Floor one, and then we have floor two. Um, so which is
+7:16
+really nice about this is if you were to make another floor, as you can tell, um, you would just go around here and you'd
+7:23
+put this over here. If you don't want floors, you can delete them. Um, I'm pretty sure it just makes it so you can just delete it, which we'll go into.
+7:30
+But, um, yeah. So, floor one for now cuz we're not we're not doing that. Um, I
+7:35
+will do another episode. Oh my gosh. I will do another episode if you guys want on teaching you guys how to actually we
+7:41
+can we can we can do it in this, but okay. So, collect zone. Um, you're going to move this all the way down to, let's
+7:46
+just say, your collect zone right here. This is the thing you uh the NPCs go to.
+7:51
+So, just turn that transparency to one blah blah blah. Um, then actually, it's
+7:57
+good if you go and do this just so the text label because he makes it a text thing, which I actually made an episode
+8:03
+on this talking about the GUIs and everything, but for now, that's okay. Um, and then yeah, um, even in my map
+8:09
+right here, if you go to the signs, collect zone, just get rid of that. Um, okay. So then, uh, going off of that,
+8:18
+let's see here. So we have friends. This is going to be a button which we can talk about. Um, we have the lock and
+8:24
+then we have owner. The owner at Okay, so owner, same thing. Uh, almost as
+8:30
+straightforward as what we just did up here. And I will also do the um other
+8:35
+programming part where you add the uh owner like base icon which we'll talk
+8:41
+about. Um I'll just do it all in this one video. So this is going to be a little bit of a longer video for you guys. But yeah, going into this. Okay,
+8:48
+so we're just going to go like this. Um yeah, that should be good. Okay, so
+8:53
+going into owner, just put it like there. Transparency, set that to one. And then as well as going into uh
+9:01
+going into this um oops where is it? Oh map. Yeah map
+9:08
+bases. I actually did this a while ago which we'll talk about but um science part base sign player sign. Yeah. So
+9:14
+this is a base sign. Um we can just delete that player name base surface UI thumbnail text label. So, actually
+9:21
+what's pretty nice is you can go into here. Um, and then we can just get rid of that. Um, and we can go into here, go
+9:31
+into the uh insert modules, and we'll go put this in here.
+9:37
+And it's pretty nice because it's actually this owner surface GUI. So, you can actually just go right here and call this uh display name. Um, and then you
+9:45
+can actually call this owner surface GUI. Um, and we're just going to get rid of this, which we'll talk I'll talk about
+9:52
+this in a sec here. Um, this is just the updated version. So, you get all of the stuff up here. Okay. So, now,
+9:58
+um, we'll go back into all this stuff. We're going to just still finish up and set up the game. Um, okay. Going into
+10:04
+the friends or no, let's just move some of the main things. Well, looks like the lock. Oh, yeah. The lock's right here.
+10:11
+Okay. So, um, going here. All right, just going to grab the lock button and
+10:16
+we'll just go right here and go like this. Just move this like this and just
+10:23
+kind of get a base thing going for this. Um, so
+10:28
+that should be good. Just right here. Okay. And then transparency, same thing. Set that to one. And then um the spawn
+10:36
+you want spawn over here. So they spawn at their base. I don't know if they spawn inside. I haven't played braid in
+10:41
+a while. So, um, either way, it's just a spawn point, so you could let this outside or inside. I'll go outside for
+10:47
+now, I guess. Um, but yeah. So, put that to one. Can't collide should be off, right? Yeah. Okay. Owner's good. And
+10:53
+then these are the uh slots, maybe. Yeah. Okay. Slots. And then we have the
+11:00
+floors. And then we have friends. Okay. Friends button. Um, so we're going to put this over here. Last time I built
+11:06
+something. Uh, I guess I won't do that right now just for time sake. Um, but
+11:11
+yeah, so for now we could just go like this. And I'll actually keep this transparency on. Uh, so we actually can
+11:17
+look at it and see the button. Um, and then yeah, so going into slots. So
+11:23
+probably wondering what are slots? Um, slots are basically the uh things that are going to be holding your sealer
+11:29
+brain rods. Um, so going into this, these are the slots right here. Um, and
+11:34
+actually it's pretty simple. Um, so we can even delete slot two if you want. Um, so we can just go into this. See, we
+11:41
+have occupied rebirth thing and we have slot one. Okay, so it's now set up
+11:46
+basically almost. Oh, wait. We have one more thing to do. Um, okay. So, spawn would be good right there. Uh, collect.
+11:53
+We're going to this right here. So, uh, just go down here and, uh, honestly,
+11:59
+probably best you just go like this. And here, let's go like a flat almost so it
+12:07
+touches. Okay, that should be good. Okay, and then you're good to just put this transparency to one. And then spawn
+12:14
+uh is good to just chill the way it is. So, we'll just go and set this to one.
+12:19
+Okay. Now, going into this, you could just go right here, duplicate. Okay. So, then we'll call this lock two.
+12:26
+We're going to duplicate this again. And to duplicate, you can do control uh D if you want, or just right click and
+12:31
+duplicate. Control D is probably easiest. Okay. So now going into this going to go
+12:38
+all the way around. Um we go slot five. Which time I got? 12 minutes. All right,
+12:43
+we're good. Uh slot six and slot seven and slot eight. Okay.
+12:53
+Okay. So slide. Um okay. So yeah, going into that now. Of course we have floor
+12:59
+one, which we talked about. Um so hit box and then we have part. Um, okay. So,
+13:04
+I don't know what those are. Um, either way, I do know where the doors are. Um, so actually pretty simple as actually is
+13:10
+this. You can actually delete all of these lasers. We'll just get rid of those for now. Um, and the main barrier.
+13:16
+Just get rid of that. You don't even need any of those. Uh, close this out. Going into this that that he added
+13:23
+finally. Um, oops. Um, we'll grab both of these
+13:28
+and we'll just drag this right here. And we're going to just configure these real quick. Uh yeah. So basically going right
+13:34
+here, hit box. This is going to be the box that, you know, they can't touch or they can't touch or they die if they or
+13:40
+whatever, you know, so they get stuck basically. So make sure it goes all the way fully. And that's good. And then
+13:45
+lasers. Um probably best we just uh yeah, go like this. Pretty sure he has
+13:51
+it labeled so you don't have to do anything like that. I don't know. Okay, let's just see. So uh yeah, laser one.
+13:58
+And then let's just go like this for now. Um, I'm pretty sure I could just go like this. I don't think he does it a
+14:03
+certain way, so we'll just double check, but probably don't have to rename him. Um,
+14:10
+but yeah, so just go like this. Bada beam, bada boom. Um,
+14:18
+sorry guys. And then
+14:23
+once you have these set up, you should be good. And honestly, like if you want to make them look better, maybe go like uh neon almost and then go like like a
+14:31
+little bit of a transparency. Probably it'll look better. Um hitbox. Uh make
+14:36
+sure that transparency is set to one as well. Okay, so lasers are set up. Um
+14:44
+little confused what hitbox and par are. Um so we'll get back to these in a sec.
+14:50
+I'll probably guess what that is later. Okay. Um yeah. So, that's about it.
+14:55
+That's setting up the base itself. Um, in in everything in general, too. Um, oh
+Customizing
+15:01
+yeah, and then I forgot guaranteed rarities. I didn't even think about Oh, yeah. Yeah. So, the this other stuff too, we want to move. So, grab this as
+15:08
+well. And um just go over here for now. And I'll just go like this maybe. Okay.
+15:14
+Yeah, that's perfect. And then we'll just like Oh, yeah. Guaranteed rarities could go like right over here. Um it's
+15:20
+like one of those signs, right? Is that how that works? I'm guessing that's what they do later on. And then you just set that transparent to one. Okay. So, yeah,
+15:26
+now you have the shops, everything good. Looks good. Okay. So, um going into that, um we just have base one, which is
+15:34
+chilling for now. Um I think we can look at some of the main stuff. So, sounds, you know, if you want
+15:41
+to change your sounds, feel free to change that. You just have to change the IDs. Um starter GUI. This is the main
+15:47
+GUI. So, if you want to customize this, it's up to you. Be careful with it. But um just changing the w the way things
+15:53
+looks not too hard actually. You can um go into here, go to the like Okay, so index button. Um he has an icon for it.
+16:00
+He has a text. Uh looks like the background's black. So if you want to make it a different color and you want to do like orange, you can do that. Um
+16:08
+so very simple stuff. Uh Rebirth, same thing. I'm not going to go in depth with
+16:13
+all the scripts because there's no point to um but just opening these up and if you want to like you know look at
+16:19
+certain things you can just go and double check everything and um same thing for changing these ones like you
+16:25
+can change the way they look um just by going inside the properties. Um so one
+16:31
+thing I think you do want to realize and need is you know how do you make your own still brain rots and stuff like
+16:37
+that. Okay, so um animations and everything, you're good. You don't need
+16:42
+to worry about these. Sorry, it's been actually been a second. Modules. Okay, so these are the modules you're going to be customizing. Um and then yeah,
+Server Luck
+16:51
+there's also other stuff in here. So asset ID for unlock base. This is a developer product. So if you want to unlock base, just go to game settings,
+16:58
+go to monetization, and create a developer product. Um you can call this like I like it says, you know, unlock
+Commands
+17:04
+base. uh we go like 100 whatever thousand 10,000 Robux go back security
+17:10
+uh monetization and then you copy the ID and then you just put that right here. So pretty easy with that. Um commands uh
+17:17
+this I guess he has admin commands maybe. So that's pretty cool. Um you know put your user ID right here I'm
+17:24
+guessing. So uh whitelist um guaranteed rarities. Uh so rare um
+Rarities
+17:31
+which is pretty cool. So you could probably actually add your own rarities if you want. So if you want to add more
+17:37
+rarities. I don't know which kinds he has. Um which I should probably look at
+17:42
+right now. Yeah. So he has common and rare. Okay. So if you want to make more you would just go like uh legendary and
+17:48
+then amount you go like one time is like I don't know or I think I think it's
+17:54
+based off of that. Oh yeah. So like there's amount there's only two amounts that give you a rare and then one of these blah blah blah. Um, and then
+18:02
+adding more rarities. So, we'll go into all of these in a bit here, but yeah, just adding more rarities. Same thing. Uh, go right here. We'll go legendary.
+18:10
+Um, chance like a 10% chance for now. And then you
+18:17
+can change the color. So, red. Chat announcement. True. And yeah, so you're good right there.
+18:24
+Um, and then what else did we have? Oh, yeah. So, modules. This is good. Tools.
+18:29
+This has all the tools. So, there's a bat and slap. Um, we're going to talk about these. And then these modules as
+18:36
+well are fine. Um, customizing wise, if you want to customize GUIs too, the ones
+18:41
+that will pop up over here, we'll see in a sec here. You can change that. Um, but yeah, so these are the things which uh
+18:49
+we have to talk about, but we'll do that later. Oh. Um,
+18:54
+I just get rid of Oh, yeah. Okay. So this is just a thing based module. So
+19:00
+that's good to know. Uh set properties. These are all the modules that people get used to. Okay. Um in here, yeah,
+19:07
+everything's still good. We're all good. Um going into events. So this is an
+19:13
+event nighttime. Um basically this is just like a simple event. It's
+Events, Mutations, Rebirths
+19:19
+basically just doing a chance of 50. 50% chance of happening. 60 seconds is kind of how long cool down another 60
+19:25
+seconds. So if you were to create another um event let's say and you did
+19:30
+like I don't know you want to call it rain maybe okay you would say it's a 20%
+19:35
+chance you would do the time of 100 seconds whatever um cool down it's just
+19:41
+just one 60 seconds um um going into that um start and end so this is where
+19:47
+you would program right here you know rain functions you would do like lighting gamelighting uh you know
+19:52
+activate rain or like um anything that you want specifically that goes into a certain event, you'd program right here.
+19:59
+Um, I could probably make some tutorials on this, but honestly, best thing to do if you want like you can even ask AI um
+20:05
+how to make like a little rain thing. Um, or if you have like a rain like thing that is just already made, like if
+20:11
+you have one of toolbox, you can just go into that and start making some scripts. Yeah. So, that's another event you could
+20:16
+do. Um, I'm going to get rid of this for now, but make sure when you make these events, you got to make the also things for that. Okay. Mutations. Um, so yeah,
+20:23
+same thing we were just talking about. uh the rain. So if we didn't make an event, we'll have to go through here and
+20:28
+we'll call it rain. Um event equals true. So it is an event. So you want to
+20:35
+set that to true. 10% chance multiplier is in how much it's going to multiply. Index multiplier. Um color all those
+20:41
+kind of things. So this one's black, but you can change the color, too. Um and then yeah, just adding default like
+20:47
+mutations. Like if you want to add a rainbow one or something, um you know, you would just go right here. for
+20:53
+rainbow chance is like 5% chance uh multipliers like three index multipliers
+20:59
+two I don't know um and then yeah whatever I mean rainbow for now you just go like this but um same thing going
+21:06
+into that so now you have mutations we have rarities um
+21:11
+these are the just again the same thing rarities we're talking about um rebirths so we'll talk about this uh server luck
+21:19
+uh this is different um I didn't know we only had for server luck. So it looks like Oh yeah, this is just if he wants
+21:25
+you can buy server luck. So that was that little shop thing. Uh same thing again. You'd go into monetization and
+21:31
+create a new developer product and you'd call it server luck. Um so you know
+21:37
+whatever 100 and then um go back to monetization server luck and then you do
+21:43
+that and the price would be like whatever um 160 just the same thing as developer product. So that's nice. um
+21:51
+things which we'll talk about. We have tools. So tools, price, if you
+21:56
+want to do and add more tools, same thing. It's all module based. You just copy and paste basically. But description icon has the price has the
+22:04
+rebirth starter. So just starter tool, no. Um power returns stolen things. True. So you can make it so it returns
+22:11
+stolen things. Um which is pretty pretty easy. Um so a lot of easy touching up and stuff. Um rebirths on the other
+22:19
+side. Um, if I'm right, you just go like this. I don't know. I
+22:24
+think so. Yeah, I'm guessing two. Unlocks multiplier go like one. Money cost like 10,000. Just double it maybe.
+22:31
+I would my opinion uh maybe um and then floor you'd go floor three actually.
+22:38
+Requirements money is blah blah blah 100 something a little more. And things I
+22:44
+guess there's things that you get unlocked maybe. Oh, that you need or require. Um, so
+Creating Thing
+22:50
+yeah, so it says things. So it's whatever is in here do you need? Um, but yeah. So,
+22:57
+um, that's rebirths. Now, uh, going into the things. Yeah. So, we have things and
+23:03
+then human. Okay. So, I don't know works. I'm guessing it's a separate one. Oh, yeah. It's just a different name.
+23:09
+Okay. Well, either way, uh, creating a new one, go like down here, call it
+23:15
+like, uh, I don't know, boy. What was that? Um, yeah. So, thing, rare, human,
+23:23
+as you could tell, um, rare, common. Okay. So, each one has, it looks like
+23:29
+its own thing. So, if I were to add a folder, I'd have to do folder, and I'd have to go like legendary, let's say.
+23:36
+So, if I wanted to do a rarity, a legendary. Um,
+23:43
+and then we got to make sure I did that in here. Yeah, there's legendary. Okay. So, legendary price just go like a
+23:49
+thousand. Uh, money per second. Go like 100, whatever. Um, and then there's
+23:55
+these animations if you guys want animations. Um, animations you will have to make yourself. Um, so that's a little
+24:02
+bit but but you just can like also if you want you can go like R15 walk or like something in here. See there's idle
+24:08
+and walk and there's all these animations you can find and just upload. Um, I'll probably make an in-depth video about making certain things but okay. So
+24:15
+yeah. So we have boy or whatever. Um, going into that then you would just call like we'll just do the same thing. So
+24:22
+we'll call this boy maybe. Actually let's let's check this out real quick. So uh human. Okay. So, we'll call this
+24:30
+call boy. Um, and then we can just get rid of what that is. Sparkles. Yeah,
+24:36
+I'll just sparkles for now. Um, but you kind of get the point. Upper torso. I'll just go like red for now just to like
+24:43
+differentiate. Um, but yeah. So, legendary you go like this. And then you would just want to copy and paste it
+24:49
+into all of these. Uh, just cuz that Okay, so that should be it. I think
+24:57
+that's how that works. Um, let's just click play real quick and then we'll talk about the second floor.
+25:04
+Um, sorry this is a long video, but yeah. So, oh yeah, there's a boy. Okay.
+25:09
+Did I already get a legendary that fast? Holy crap. Okay. Yeah, we just got a legendary. So, oh, I don't have that
+25:14
+much plate. Tough. Um, okay. Okay. Find rainbow boy. Oh, rainbow.
+25:21
+Okay. So, there's things. Oh, yeah. It tells you. Okay. So, yeah. Now, as you can tell, it says your base. Uh, where's
+25:30
+the sign that has your day on it? Okay. Either way, the lasers are working, which is nice. Oh, yeah. And they turn
+25:35
+off. That's good. Um, yeah. And as you can tell, the collect, it's a little high up, so don't know why these get
+25:41
+transparent. Those should not be transparent. Uh, you just have to move them down. Same thing. So, dig. And
+25:48
+yeah, this has offline money, too. I kind of forgot to mention, but you touch the lock. Uh can cl this should be off
+25:55
+too by the way. I don't know why it's like that but yeah same thing friends here you can allow them or not. Um but
+26:02
+yeah so they're standing got their things. Um and I'm guessing this is the floor one.
+26:09
+I need to like look at what this is but um oh maybe it even is just like the stairs or something. I don't even know.
+26:16
+Okay. So yeah it says your base. I we'll work on the rest of that later. Um, you can honestly go watch my other video too
+26:22
+probably. But yeah, so I mean now I can just keep purchasing things if I want. And as you can tell it has the index. So
+26:29
+gold night rainbow. Uh oh. Yeah. So I I need to make those.
+26:35
+Um, so yeah. See when it misses it, it misses. It's supposed to be right here.
+26:41
+And as you can tell, it goes all the way down. It's pretty cool. So yeah, if I were to make the rainbow uh thing if you
+26:48
+were to go into uh I don't know what was that was the mutations. Is that why? Yeah, that's
+26:55
+why. Okay. So yeah, you'd have to do the same thing. So just go into the things
+27:00
+and duplicate this and call it rainbow. Like literally that's all you need to do. And then you can go here and I'll
+27:05
+call it rain. Um and it it all has everything in it. So, actually pretty simple to just like copy and paste if
+27:12
+you want with that part. Um, I don't know why it's set up like this. It's a little odd, but um I'm guessing cuz each
+27:18
+one if you want, you don't have to put them into um so and also probably because they're just a special
+27:24
+characters. So, everything has special characters. Um yeah, and making these things if you want to do them like a
+27:31
+certain way. I know you guys are probably like, "Okay, how do I like actually make something?" Um, depending
+27:37
+on how you want to do this, it's it's kind of hard cuz yes, this is a humanoid. This is a person. Um, the best
+27:43
+thing to do, um, where did I take that out of Okay, good. Um, best thing to do
+27:49
+would be like I don't know. So, I I have this plugin too, but you guys will probably need to find a different plugin, but like if you wanted to add
+27:55
+like I talked about this in my last video, if you wanted to add like an attachment or something, um, you can add
+28:00
+it. It's just you got to make sure to weld it. So, uh, I didn't weld the last one, but you know, you can add an
+28:05
+attachment. You can just put this on its head, blah blah blah. Um, go like right
+28:11
+here or something, you know. Oh, it's like glasses. Um, you go to the handle and you just want to weld it. So, like
+28:17
+easy weld should be able to grab these parts and um, oh gosh, go like this head
+28:23
+joint in place. Um, and then it should be welded. Um, you can also just add a weld if you search up like weld and just
+28:31
+add them weld constraint physically. Um, but like that that that's it. That's how you just like customize something a
+28:36
+little bit. But um, when it comes to making models as the seal of brain rods,
+28:42
+I will have to do another tutorial on that. But yeah, so it looks like everything's in here. He
+28:48
+has commands as well. I think you can do like certain things in here which is pretty cool. Uh, this talks about the
+28:54
+tools but like I don't know. I mean, oh, data store request. Okay.
+Testing 2
+29:01
+Okay. Well, yeah. So, I don't know. Oh, yeah. So, if you hit if you do a slash, he has clear as console whisper version
+29:08
+blah blah blah. Um, and as you can tell, it says a legendary thing has respond spawn. Um, oh, looks like I don't have
+29:14
+the eyes on it. Oh, wait. That was I didn't take that out. Well, either way, you kind of get how that works. Um, so
+29:21
+going into that, it's pretty cool. Um, yeah. I'm still a little confused of this. So, I'm guessing this has to do
+29:28
+with This is a long video, guys. Sorry about that. Um, just kind of making the
+29:33
+whole game as it is. Uh, what is this called? Slots. Nope.
+29:39
+Floors. How's the floor hitbox?
+29:45
+So, sometimes you can just go like this. Oh, closest floor hitbox. [Music]
+29:52
+hit box closest rebirth level. Um,
+30:00
+yeah, I don't know what that is, honestly. Um, I'm guessing it has to do with the other floors, too. So,
+30:06
+uh, but yeah, I think Oh, well, you know what? I think it is. This probably is like going like something like this. So,
+30:13
+um, probably do do this and just overreacting, but okay. So, we'll just
+30:18
+go like this for now. I don't know what this part is, but it's okay. Let's make that one. Okay. So, yeah. So, just
+30:24
+something like that. Pretty simple. Um, and then, oh, I think the reason the
+30:29
+other one wasn't working was because uh where's that? to modules insert honor UI
+30:37
+thumbnail display name. I don't know why that was
+30:47
+owner service UI display name.ext. Oh, you know, it might it might have just not been out enough. Um, that's could be
+Outro
+30:54
+another reason. Um, but yeah, so that's about it you guys.
+31:01
+Um, nothing too crazy. Um, if you do want another tutorial specifically
+31:06
+talking about certain things, just let me know in the description. And, um, going and creating another base, you'll
+31:12
+just, uh, duplicate and you just literally, uh,
+31:17
+is it all the way over there? Um, you just go like this and it'll duplicate it for you. Um, also, I would recommend
+31:23
+going and going into here. So, go to map bases, base one, base two. So you go like this, move them together, and then
+31:29
+you would just go and call this base two. Um, just like this. And then call
+31:34
+this base two as well. Okay, so that's about it you guys. Um, I hope you did
+31:40
+enjoy this tutorial and uh I'll see you guys in the next video. Bye.
+31:57
+girl.
+32:04
+Girl, girl, girl.
+
+
+PART 5:
+
+Hey there, welcome to my channel. I'm on
+0:01
+the mission to hit 100,000 subscribers
+0:03
+before the end of 2025. And your support
+0:05
+means everything. So don't be that
+0:07
+person who watches but doesn't
+0:08
+subscribe. Thanks for being here and
+0:10
+let's jump right in.
+0:12
+[Music]
+0:13
+Yes, hello everybody and welcome back to
+0:15
+another tutorial on the Twin Plays
+0:17
+channel. In today's video, we're going
+0:18
+to be talking about making stealing for
+0:19
+your brain uh stealer brain rock kit.
+0:21
+It's already implemented. I think a lot
+0:23
+of people were just a little confused
+0:24
+how it works. So I'm going to get
+0:25
+straight into that. Um, if you're new to
+0:27
+my channel, feel free to hit the
+0:28
+subscribe button and turn post
+0:29
+notifications. Uh, thank you guys all so
+0:31
+much for the support. I have a lot of
+0:33
+videos planned and things to come. But
+0:35
+yeah, we're just going to go straight
+0:36
+into this. Um, simply as of right now,
+0:38
+actually, I'm actually in steal a brain
+Ingame
+0:40
+rot. So, I thought I'd just show you
+0:41
+guys like this isn't our kit. This is
+0:43
+the main game, of course, cuz I know
+0:45
+some people are asking about a few
+0:46
+things. Um, so one, yes, we are I'm
+0:49
+going to do a tutorial on how to make
+0:50
+models uh just like these right here in
+0:53
+order to uh, you know, make, you know,
+0:55
+your steel brain rods. And then also I
+0:58
+probably will plan on making some more
+0:59
+things like if you want me to make a
+1:00
+settings or um, you know, certain things
+1:02
+in general, I can do that. Um, but yeah,
+1:05
+when it comes to stealing, uh, I wish I
+1:08
+could show you. And also, if you want
+1:09
+more tutorials on like building your
+1:11
+base higher and floors and things like
+1:13
+that, we can do go ahead and do that.
+1:15
+Um, but yeah, when it comes to stealing,
+1:17
+I wish I could just show you here, but I
+1:19
+mean, maybe you know what? I'll just do
+1:20
+this for you guys and just show you kind
+1:22
+of uh wait, I'm going to purchase this
+1:25
+in a sec. Um, okay. So, so yeah, it's
+1:29
+going to be like a little button right
+1:30
+here and and um
+1:35
+Okay, let's just No.
+1:37
+Chimpanzini.
+1:38
+No. Well, either way, you get the point.
+1:42
+You basically can steal um No. Who is
+1:44
+stealing mine now? Well, yeah. Um, okay.
+1:48
+So, going into studio, uh, we already
+1:50
+have this this little crab. Um, okay.
+1:54
+Well, yeah, you get the point. And then
+1:56
+selling, stealing and selling. So, uh,
+1:58
+we don't have a grab, but it does have
+2:00
+sale. So, I mean, either way, that works
+2:02
+perfectly. Um, but yeah, so basically,
+2:05
+you know, you have everything here and
+2:06
+you can do whatever you need to do. But
+2:08
+yeah, let's go into this. So, I'm
+2:10
+already in studio actually. So, if you
+2:11
+if you haven't watched the video and you
+2:12
+haven't have the kit, um uh go watch the
+Hitbox Part (Watch)
+2:15
+last video. Just go watch it. Go watch
+2:17
+the whole thing, honestly, cuz it kind
+2:18
+of goes over everything. I just didn't
+2:19
+really explain it well. Um this is very
+2:21
+simple though. So, we have our bases.
+2:24
+Now, I kind of mentioned to some people
+2:25
+it's honestly easier to do like one base
+2:28
+at a time and then go back into it. But,
+2:30
+um yeah. So, I mean, same same thing,
+2:33
+honestly, uh if you were to remove the
+2:35
+bases. So, this is how it should look
+2:37
+for now. But in your base, this is the
+2:40
+hit box. So, right in here in this hit
+2:41
+box, this is actually what you're going
+2:43
+to be using for the floors. Um, I guess
+2:46
+how Golden Milk set this up was um the
+2:48
+hit box basically, if you guys do want
+2:50
+to search and find or replace all um um
+2:55
+yeah, sorry. Oh, yeah, right in here. Um
+2:58
+basically hitbox wise, oh no, right
+3:00
+here. Um we basically find it and we're
+3:02
+just checking if anything is touching
+3:03
+it. So if something's touching it, we're
+3:06
+going to add it to a connection and then
+3:07
+we are basically going to make it so
+3:09
+they can sell or steal anything that is
+3:11
+inside of here. So technically you would
+3:14
+go inside here and you do a hitbox. Um
+3:17
+and then yeah, the part is something you
+3:18
+don't really need to worry about.
+3:20
+Basically what it is is um just
+3:22
+something to show if the floor is
+3:24
+unlocked or not. Um but like yeah, you
+Making More Floors Later
+3:26
+can just put that wherever. Um, but then
+3:28
+going into the same thing again. So,
+3:30
+like if I were to do a second floor,
+3:32
+which um I'll have to talk about more
+3:34
+later. I want to make a separate video,
+3:35
+but it's actually really simple. You
+3:37
+just, you know, you just go here um and
+3:41
+uh you would just call it floor two,
+3:42
+blah blah blah, and then go and make
+3:44
+more floors, but I'm going to do that in
+3:45
+another tutorial. But yeah, so this hit
+3:47
+box is all it is that requires to sell.
+3:49
+That's it. It's actually already set up
+3:50
+for you guys. Um cuz we do do a
+3:54
+proximity prompt when it comes to uh
+3:56
+stealing if I'm right. Uh yeah. So it
+4:01
+looks like you have a steals. Yeah. So
+4:02
+he has a steals data board and um steel
+4:05
+speed. So uh when it comes to things you
+4:08
+can go like that. Um but yeah, so
+4:10
+there's rate speed, steel speed. Um I
+4:12
+kind of forgot to like tell you guys
+4:13
+like some of these things, but uh we'll
+4:15
+go into more into that later. But yeah,
+4:17
+that's it. That's all you need to do.
+4:19
+You just need to go and make sure this
+4:20
+hit box is connecting to the floor that
+4:23
+it is. That's that's all you need to do.
+4:25
+Um and then yeah, I think I we can play
+4:27
+with one base if I'm right. Let's just
+4:28
+double check. I don't know. Data store
+Example
+4:30
+was filled. Um but yeah, so either way,
+4:34
+it's how it should look. Um and then
+4:36
+we'll have to fix these parts so they're
+4:37
+not, you know, so as you can tell, see
+4:39
+these are visible, but um and then we'll
+4:41
+have to fix, you know, and add some
+4:43
+animations and things. But yeah, that's
+4:44
+that's just how it was. Oh god, offline
+4:46
+money. I'm I'm rich. This was for a
+4:48
+while ago. But yeah, so see how it is
+4:50
+now. It is just showing that it's you
+4:51
+can sell it. So if I were to sell it, it
+4:54
+can make my money. Um and then that's
+4:56
+good. Um but yeah, so perfect. And we
+4:59
+have that and that's set up. Um okay.
+5:01
+Yeah. So simple tutorial and um if you
+5:03
+guys have any more questions and you
+Outro
+5:05
+want to go into other things, leave them
+5:07
+down in the comment section. I'm going
+5:08
+to be posting a lot more tutorials very
+5:10
+soon here. Bye-bye.
+5:19
+girl.
+5:32
+Girl, hey.
+
+PART 6:
+
+Hey there, welcome to my channel. I'm on
+0:01
+the mission to hit 100,000 subscribers
+0:03
+before the end of 2025. And your support
+0:05
+means everything. So don't be that
+0:07
+person who watches but doesn't
+0:08
+subscribe. Thanks for being here and
+0:10
+let's jump right in.
+0:12
+[Music]
+0:13
+Hello everybody. Yes, and welcome back
+0:15
+to another video. In this tutorial,
+0:16
+we're going to be talking about how to
+0:18
+do the uh player owner UI again. Um this
+0:20
+is with a new kit, so we kind of just
+0:22
+had to remake a video on this. Very
+0:24
+simple tutorial. Um if you're new to the
+0:25
+channel, hit the subscribe button for
+0:26
+postifications, but um we got a lot more
+0:28
+tutorials coming. In the last video, we
+OwnerGUI
+0:30
+kind of talked about how to uh do the
+0:32
+steals and everything. So, very, very
+0:33
+simple. Um, but yeah, so just quickly as
+0:35
+we go into this, um, so you're going to
+0:37
+go to your game. Um, you should have
+0:38
+your base. Everything should be loaded
+0:40
+in. If you don't have any of this stuff,
+0:41
+just go in the description, go watch the
+0:43
+last videos, and get the kit. Um, very
+0:45
+simple to do. But, so you're going to go
+0:47
+into your server storage. Um, so go into
+0:49
+your server storage, go to modules, go
+0:51
+to your insert, and it's this owner
+0:53
+surface UI right here. Um, so if you
+0:56
+were to actually just drag this onto
+0:59
+let's say a base owner and you go and
+1:03
+put this to front. Okay, so that's
+1:05
+actually why it wasn't showing up the
+1:07
+first time. Um, you got to put on the
+1:08
+front. So once you put it on front, it
+1:10
+should work just great. Um, now you guys
+1:12
+probably might not have this. If you
+1:13
+don't have this map and everything,
+1:14
+you're going to have to go and watch the
+1:16
+video and get the kit as well like I was
+1:18
+talking about. But as simple that as
+1:20
+that is, you just need to do that. Put
+1:21
+on the front. So we have a thumbnail and
+1:23
+we have a display name. display name is
+1:25
+already set up for you guys. We do need
+1:26
+to do this though. Um, so I'm going to
+1:28
+grab this and put it back into insert.
+1:31
+Um, and we're going to go to a few
+1:35
+things. So, this is where it kind of got
+1:37
+a little confusing because it's a newer
+1:38
+tutorial, but owner surface GUI. So, you
+1:42
+just got to find this and okay, insert
+Programming
+1:45
+owner base owner base display name.ext.
+1:49
+Okay, so display name.ext. So, we're
+1:51
+just going to grab this. Uh, better to
+1:54
+just go like this. Um, okay. Equals
+1:56
+player. What is this service? I enabled
+2:00
+parent. Perfect. Okay. So, it's better.
+2:02
+It's actually just this. That's actually
+2:04
+very nice. Okay. So, it's just right
+2:06
+here. It looks like we need to change.
+2:08
+So, going into this part, I actually
+2:10
+have it programmed already on the old
+2:12
+kit. Um, so we can actually just
+2:14
+download this right here. And we can go
+2:19
+and I think we just put it right here.
+2:21
+Let's see. So, uh, owner surface GUI we
+2:24
+need to go into and we go do thumbnail.
+2:27
+So, well, honestly, same thing. Um,
+2:30
+either way, and we grab the thumbnail
+2:32
+type, headshot, thumbnail size, and we
+2:34
+grab the content. Try to get user
+2:36
+thumbnail async. We grab the player.
+2:38
+Yep, that's right. User ID, thumbnail
+2:40
+type, thumbnail size, and we do it.
+2:42
+Perfect. Okay, so that is that is it you
+2:45
+guys. Um,
+2:47
+it's already made actually. That's
+2:48
+perfect. Very nice. There. Last time we
+2:50
+had to do a few more things, but this is
+2:51
+actually much much more simpler. Okay,
+2:54
+so um I think it works. If you hit play,
+Example
+2:56
+it should work actually. Let's just
+2:57
+double check. Um yeah. All right, it
+3:00
+works. Okay, so that's that's it. That's
+3:02
+all it looks like. Uh very simple. You
+3:04
+probably could just go I'll show the
+3:05
+script one more time. You can pause it
+3:07
+and look at that. Uh I'm going to go
+3:09
+over commands and everything probably
+3:10
+too as well. Um and some more things if
+3:14
+we want we can go into, but you know,
+3:16
+you have the leaderboards and
+3:17
+everything. um the shops, which is nice,
+3:20
+and the um other things. So, I'll go
+3:24
+into this and remove some of the things
+3:26
+so we don't have to worry about the
+3:27
+transparency items. But very nice
+3:29
+leaderboard. Okay. Yeah, that's it for
+3:31
+the tutorial. Very, very simple. Um
+3:34
+maybe go back uh if you guys want to.
+3:37
+Yeah, I'll just if you want, just pause
+3:39
+this on your screen. Actually, sorry.
+3:40
+Pause this onto your screen. Um and you
+3:43
+can just That's it. It's the thing
+3:45
+script right here. That's all you need
+3:47
+to change. and you should be good. Just
+3:49
+because how this works is um it looks
+3:51
+like he actually made insert owner. So
+3:53
+basically what he's doing is he's just
+3:56
+making a new surface UI every time. So
+3:58
+we don't even need to worry about like
+Outro
+4:00
+adding a value that's going to change
+4:01
+the image. It's just going to always be
+4:03
+brand new and fresh. Um so it's very
+4:05
+nice. U but yeah. Okay. Uh I will see
+4:08
+you guys in the next video. Bye-bye.
+4:17
+girl. My girl
+4:24
+girl.
+
+PART 7:
+
+Hey there, welcome to my channel. I'm on
+0:01
+the mission to hit 100,000 subscribers
+0:03
+before the end of 2025. And your support
+0:05
+means everything. So don't be that
+0:07
+person who watches but doesn't
+0:08
+subscribe. Thanks for being here and
+0:10
+let's jump right in.
+0:12
+[Music]
+0:13
+Hello everybody. Yes, it's with you and
+0:15
+welcome back to another tutorial on the
+0:16
+Twplays channel. Today's video we're
+0:18
+just quickly talking about how to make
+0:21
+your parts not transparent. Little
+0:23
+little kind of broad and uh weird how to
+0:25
+say that, but um we're just going to go
+0:27
+straight into this. If you're new to the
+0:28
+channel, hit the subscribe button. and
+0:29
+everyone who's been watching the videos.
+0:30
+Uh this is a seal brain rot series uh
+0:32
+and kit. Uh this was made by Golden Milk
+0:34
+as well and TGO. So go check them out in
+0:37
+the description. Yeah, you're just going
+0:38
+to need to go description actually and
+0:39
+get all the links. Um if you if you have
+Getting Started
+0:42
+already uh have this kit and everything,
+0:43
+we were just last talking about the
+0:46
+owner thing right here. So um going off
+0:48
+of this, it's actually pretty simple.
+0:50
+Okay. Um you're going to go to your
+0:52
+things right here. Now, the next video
+0:54
+will be about commands, but what you got
+0:56
+to do is um and what I mean by this, by
+0:59
+the way, sorry, I'm a little little just
+1:01
+going quick on about to it. Um, he has
+1:04
+made these parts that were basically so
+1:06
+like if you go in the stands, um, oh no,
+1:09
+that's not what I meant. If you go into
+1:10
+the bases and yo slots, like these
+1:13
+little like collect and spawn things
+1:14
+were just basically staying uh not
+1:17
+transparent, which is kind of weird. I
+1:18
+don't know why he did that or why
+1:20
+they're like that. I'm guessing it's
+1:21
+just to show that if the base is
+1:22
+unlocked or if it's not um things like
+1:24
+that. But going into it, uh all you have
+Programming
+1:27
+to do go into your things uh service
+1:29
+group service and what you're going to
+1:32
+do is you're going to search up
+1:33
+transparency and find replace all. Now,
+1:35
+some people may not have these open. If
+1:36
+you guys don't have any of these open,
+1:38
+you're going to go hit properties,
+1:39
+explore uh and find replace all. You
+1:41
+should have all this open that I have.
+1:42
+But yeah, um basically just look for
+1:44
+transparency. So it's only in these
+1:46
+scripts. So what I did is I actually
+1:49
+just if you look at the commented this
+1:50
+was the old one. So all you have to do
+1:51
+is do what I did here. So just um
+1:54
+changed this from and01 to just and one.
+1:57
+Um same thing down here. So we're going
+1:59
+to change this to is unlocked and and
+2:01
+one. Um so then we're going to go down.
+2:03
+Now like I said, this is probably not
+2:05
+the best way of doing this, but um it
+2:07
+does the job. Um so same thing,
+2:09
+transparency, transparency,
+2:12
+same thing going all the way down. So
+2:14
+just find all the ones that have
+2:15
+transparency that says and zero or one.
+2:18
+You want it to just be one because we
+2:19
+want it to be transparent. We don't want
+2:20
+any to see any of those things. Um this
+2:22
+one though, the base locked. Keep this
+2:24
+like this because um we just got to keep
+2:27
+it like that or else it breaks it. U but
+2:29
+yeah, so we're good to do that. And then
+2:31
+you could go and scroll down. Same
+2:33
+thing. Transparency is good here. This
+2:36
+one um you trans from zero to one. So
+2:39
+you just want to make sure it's one. Um,
+2:41
+so yeah, just kind of looking at what I
+2:43
+did here. So we'll keep going down. Uh,
+2:45
+this is what we did in the last video.
+2:48
+And then that was Oh, and then this one
+2:51
+right here. So is visible and one. Um,
+2:54
+and then this one as well. And one. Um,
+2:58
+and going down. Those are good. And you
+3:01
+should be good. You can also just do
+3:03
+Crl+ F in here and just search up
+3:05
+transparency if that's easier for you
+3:06
+guys. Um, and yeah, that's how you find
+3:10
+it. I just had to look through all the
+3:11
+scripts just to make sure that I wasn't
+3:13
+missing anything. But yeah, so that that
+3:15
+that's it. That's how it works. Super
+3:16
+simple actually. Um very quick tutorial.
+3:18
+But yeah, so if you guys can tell, I
+Example
+3:20
+mean, this isn't transparent cuz this is
+3:22
+something that you can just change
+3:23
+yourself, which we'll go into. Um but
+3:25
+yeah, so as you can tell now, it's not
+3:27
+like uh whatever down there. Um now, if
+3:30
+you guys want to make them so they don't
+3:31
+like up there, you got to make sure.
+3:33
+Okay, I can just kind of show you too
+3:34
+what it looks like. But slot slot one
+3:37
+collect spawn. So you see how that
+3:38
+spawns so high? you would just want to
+3:40
+make it lower basically and it would
+3:42
+spawn him right there. So just do that.
+3:44
+Very simple to do. And the same thing
+3:45
+goes for this. It'd be like he'd be down
+3:47
+there. Um so you just find the good soft
+3:50
+spot for that. Um and then yeah, that's
+3:52
+that's about it. And as you can tell,
+3:54
+these are all now invisible and
+3:56
+everything's looking good and normal. Um
+3:58
+but yeah, so the next video I'm going to
+3:59
+be talking about commands. Um if you
+4:01
+guys are having issues with some of
+4:02
+these things, go watch Golden Wick's
+4:04
+video or go watch my first video that I
+4:05
+talked about things. Um, and we're going
+4:07
+to go into making these, you know,
+4:09
+models and stuff, but it's going to be
+4:11
+another video, so I'll go into that when
+4:12
+I can. But yeah, you guys, um, very,
+Outro
+4:15
+very simple tutorial, and I will see you
+4:18
+guys in the next video. Bye-bye.
+4:33
+Girl, my girl.
+
+PART 8:
+
+Hey there, welcome to my channel. I'm on
+0:01
+the mission to hit 100,000 subscribers
+0:03
+before the end of 2025. And your support
+0:05
+means everything. So don't be that
+0:07
+person who watches but doesn't
+0:08
+subscribe. Thanks for being here and
+0:10
+let's jump right in.
+0:11
+[Music]
+0:13
+Hello everybody. Yes, and welcome back
+0:16
+to another video on the Twin Plays
+0:17
+channel. In today's video, we're'll be
+0:18
+talking about commands. Very simple as
+0:20
+it is. Commands for your brain rush
+0:22
+series. Um I am going to be doing a girl
+0:24
+garden commands as well, but we're going
+0:26
+to be using commander. Um, I might make
+0:28
+a separate video if you guys want me to
+0:29
+change this into a commander thing. But
+0:30
+for now, we're going to go over what he
+0:32
+has made. Golden Milk has made this.
+0:34
+Now, if you are new to my channel, hit
+0:35
+that subscribe button, turn on
+0:36
+notifications. It means so much to me.
+0:37
+Um, but yeah, going into this should be
+0:39
+very simple and straight because we're
+0:41
+just going to go look at what he has
+0:42
+made. Um, but so going into your game,
+0:45
+if you haven't gotten the kit already,
+0:47
+you're just going to have to go get the
+0:48
+links in the description. Uh, and yeah,
+Commands Module
+0:50
+that's about it. Everything should be
+0:52
+already there for you. And go watch the
+0:53
+last videos as we talk about some
+0:55
+things. Okay, so last video we talked
+0:57
+about the transparency these parts. In
+0:58
+this video we're going to talk about the
+0:59
+commands and going into this. So um we
+1:04
+kind of already talked about some of
+1:05
+these things but you just got to go to
+1:08
+um your yeah everything's good in here.
+1:11
+Uh where's uh yeah I could just double
+1:14
+checking we don't miss anything. Oh okay
+1:15
+yeah so go to your commands and service
+1:16
+go service and then also go to your
+1:18
+configuration and server storage under
+1:20
+modules commands. Okay, so whitelist,
+1:22
+this is just basically going to make it
+1:24
+so the player who has this user ID can
+1:26
+use the commands. Um, so to get your
+1:29
+user ID, very, very simple. Go to your
+1:31
+profile and you should be able to uh
+1:33
+grab this nine number right here. Um, as
+1:36
+well as grabbing your friends. If you
+1:37
+want to add your friend, you just got a
+1:38
+comma and you go down like that. Very,
+1:40
+very simple. Okay, so I'm just going to
+1:42
+do mine for now, but the prefix is a
+1:44
+slash. If you want to change it to an
+1:45
+exclamation point or something, feel
+1:47
+free to do that. Okay, so you're good
+1:49
+with that. Already done. Now going into
+Commands Script
+1:52
+commands, how this works, um yeah, so he
+1:55
+has the split arguments. Uh we're
+1:56
+basically going to be doing this to uh
+1:58
+split the strings and get to what the
+2:00
+player is saying. But when the player is
+2:01
+added, uh we just do all of the main
+2:03
+things, but we do a messaging service.
+2:06
+So this is with the global messaging um
+2:08
+if you want to do a global announcement,
+2:10
+which we talk about. There's also global
+2:12
+server luck. There is also uh leader
+2:15
+stats. And then uh yeah, global
+2:17
+announcements, which we talked about. So
+2:18
+when it comes to global that just means
+2:20
+everyone gets it. So um right here as
+2:22
+you can tell luck value server luck and
+2:24
+you go. So that's really cool how he
+2:26
+does this actually. Um but yeah going
+2:28
+into this as you can tell we have uh
+2:32
+first things first uh we just check if
+2:34
+they're whitelisted. If they're not
+2:35
+whisted we're not going to let them do
+2:36
+anything. So what I mean by that is if
+2:38
+they are not that player user ID they
+2:40
+are not able to do the commands. But
+2:42
+when the player chats we are going to uh
+2:45
+check if it's the prefix. So when it
+2:47
+goes into the prefix, we're just talking
+2:49
+about that uh you know the prefix in the
+2:51
+commands. So if it's a slash, it's not a
+2:53
+slash, we're just going to return end.
+2:55
+We're not going to go do anything. But
+2:56
+going through here, this is when we do
+2:58
+the command thing. So
+3:00
+going into here, um we do a few things.
+3:03
+So he has a few commands. We have slash
+3:05
+thing global thing and he has slashevent
+3:09
+slashglobal event. He has um yeah that's
+3:13
+SL global event server luck slashglobal
+3:16
+server luck and then he has slash leader
+3:18
+stat and slannouncement slash uh global
+3:20
+announcement. Um so these are some basic
+3:23
+commands. Now you're probably wondering
+3:25
+okay but how do you actually like type
+3:26
+it in? So we're going to just look at
+3:27
+how we did it. So if the command is
+3:30
+thing or global thing so if it's
+3:31
+slashglobal thing or thing that makes
+3:33
+sense we are going to grab the amount.
+3:36
+So that's going to be argument two. So,
+3:37
+it's going to be slash um thing space,
+3:41
+let's say two. So, you want two of these
+3:43
+things, I guess you could say, is what
+3:44
+it looks like. And then we are going to
+3:47
+do mutations. So, argument three. So,
+3:49
+slash thing uh space two space gold.
+3:54
+Okay. So, we want to spawn two gold
+3:56
+things. And then we do the name. So,
+3:58
+that's argument four. Um so, the name is
+4:02
+Oh, yeah. The name. So you could do
+4:04
+slash thing to gold thing or you could
+4:08
+do what I did. So like let's say I have
+4:10
+um oops that's not the right module. Uh
+4:13
+this one uh so this is the name by the
+4:15
+way. So if I want to do human I would do
+4:18
+so let me just kind of do this in like a
+4:20
+little thing down here. So it' be like
+4:21
+we're saying uh slash thing to gold
+4:26
+human basically is what he's saying. So,
+4:30
+uh, yeah, thing gold and then human is
+4:33
+the name. Um, so that's that's basically
+4:36
+what's happening. And then if it's
+4:37
+global thing, it's going to spawn and do
+4:38
+the same thing. So, it's going to be
+4:39
+like, uh, global thing uh like this
+4:43
+basically just going to spawn globally.
+4:45
+Um, but yeah, so that's that's it for
+4:47
+that. It's not if that's easy to
+4:49
+understand. Um, basically it's just
+4:51
+we're are using the arguments which is
+4:53
+splitting their array. Um, and that's
+4:55
+where we're going to just get what the
+4:57
+player said in each space, I guess you
+4:59
+could say. Um, so like if you were to go
+5:02
+down into uh events. Okay, so same thing
+5:06
+here. So this one's very simple. It's
+5:09
+just two arguments. Um, so you just
+5:11
+basically do uh event. Yeah, he's
+5:13
+actually checking the event name and
+5:15
+event key. So if we were to go in here,
+5:17
+it's going to be night. Um, and if you
+5:18
+type it in lowerase or uppercase blah
+5:20
+blah blah, um, same thing. Um, so
+5:25
+knight basically slashevent space knight
+5:28
+that it will spawn the knight basically.
+5:29
+That's how that works. Um, and then
+5:31
+going down here, server luck. Um, same
+5:34
+thing, two arguments. So you just would
+5:36
+do slashs server luck and space two. Um,
+5:40
+and then oh well argument three. Okay,
+5:43
+so it looks like there might be an
+5:44
+argument three. So you could do two plus
+5:47
+maybe space three, I guess you could
+5:48
+say. Uh, and then leader stats. So, this
+5:51
+one I actually just tested out in the
+5:52
+video, but you you would do slash and I
+5:54
+actually I'll test this for you guys,
+5:56
+but it's just Yeah. So, slash leader
+5:57
+stat um twin plays dev steals 100. So,
+6:02
+that means it would make my steals 100
+6:04
+basically. And you can also always do
+6:07
+these things in the uh dev console, at
+6:10
+least when it comes to leader stats,
+6:11
+which I could show you how you do that,
+6:13
+but the reason we don't want to do that
+6:14
+is because when it comes to data stores
+6:16
+and everything like that, it could it
+6:18
+could mess it up. So best to do it with
+6:20
+way to do it. Um announcement also
+6:23
+pretty nice. Basically you just split it
+6:25
+and um you just grab whatever is past
+6:28
+the announcement. So slannouncement and
+6:30
+then if we do space blah blah blah blah
+6:32
+blah blah blah like a whole sentence or
+6:33
+whatever it will grab that whole other
+6:35
+part of it. So that's basically what
+6:37
+we're doing here. Okay. So that's it.
+6:40
+That is all the commands he has. Now um
+6:44
+if you look at this. Okay. So it says
+6:46
+things we do else if blah blah blah. Um
+6:49
+it's actually probably best we go and
+6:50
+look. Yeah. So if this else if that else
+6:53
+if this else. So basically he's just
+6:56
+making all these else ifs. Um very kind
+6:59
+of simple to understand as well. But if
+7:01
+you want to add another one um you would
+7:05
+just go into this. So like I would say
+7:08
+command um I don't know and you could
+7:11
+figure this out later but honestly like
+7:13
+TP stuff you would want to just use like
+7:15
+HD admin in my opinion but same thing
+7:18
+you know command uh oh yeah yeah or like
+7:21
+uh I don't know equals teleport you know
+7:24
+then um then you would go here and then
+7:26
+this is where you do uh arguments. So
+7:31
+so actually you' probably just go uh
+7:34
+like this. Let's do this instead. So if
+7:36
+you were to go and make another one,
+7:38
+sorry, just for example, if command is
+7:39
+equal argument two and argument three.
+7:41
+So um
+7:44
+oh well it depends how you want to do
+7:46
+this. If you want to do TP2 someone
+7:47
+actually it's probably just uh just this
+7:51
+and then like we said we'd go into here
+7:53
+and you'd grab the uh local username. Um
+7:56
+and then that's when you'd have to go
+7:58
+through Oh my god, I just scrolled way
+7:59
+too far down. That's where you'd have to
+8:01
+go down gra
+8:03
+stuff. So like I mean we just have a
+8:05
+username uh like this um
+8:10
+turn players blah blah blah. Um and then
+8:12
+that's where you would just go and uh do
+8:15
+the whole like basically the whole TP
+8:18
+thing. So going here you'd want to get
+8:21
+the player character and then you get
+8:23
+the humanity part and then you know just
+8:24
+send them basically is what you would
+8:26
+do. Um but yeah I mean you don't need
+8:28
+the user ID. You would just want the
+8:30
+player character. Um, but yeah, I mean
+8:34
+there's you get player from character
+8:36
+blah blah blah username, but I would
+8:38
+have to get the player first. Um, but
+8:39
+yeah, so that's that's kind of my whole
+8:41
+point of how this works. Um, nothing too
+8:43
+crazy actually. So, very nice. Um, but
+Testing
+8:46
+yeah, you can just go and add more
+8:48
+commands if you want, but um, let me
+8:50
+just quickly hit play and just kind of
+8:51
+show you and make sure we do this right.
+8:53
+But yeah, so if you, as you can tell, I
+8:54
+already have 100 steals now. But so if I
+8:56
+want to do rebirth, so I would just do,
+8:57
+and I wish it would pop up right here,
+8:58
+but that's my whole point. We'll
+8:59
+probably do uh commander later, but
+9:01
+leader stats uh leader stat uh templates
+9:05
+dev um you know rebirths 100 blah blah
+9:08
+blah. So now it gave me 100 as you can
+9:10
+tell. And then yeah, I think you just do
+9:13
+like thing. I forgot what the command
+9:15
+arguments were, but that's why it's
+9:17
+probably better to have commander, but
+9:19
+like I don't know thing or no, we can
+9:22
+even just do event. Let's just do event
+9:24
+night. Okay, perfect. There you go. See,
+9:25
+I just did event the night. There we go.
+9:27
+Now it's event night. Um, and yeah, so,
+9:31
+uh, very simple. Um, but yeah, you guys,
+9:34
+uh, I hope you did enjoy this, uh,
+Outro
+9:37
+tutorial and I will catch you guys in
+9:40
+the next video. Just leave more
+9:41
+suggestions below. I'm going to do the
+9:42
+model one very soon here as well.
+9:43
+Bye-bye.
+9:57
+Girl, my girl.
+
+
+
+PART 9:
+
+Hey there, welcome to my channel. I'm on
+0:01
+the mission to hit 100,000 subscribers
+0:03
+before the end of 2025. And your support
+0:05
+means everything. So don't be that
+0:07
+person who watches but doesn't
+0:08
+subscribe. Thanks for being here and
+0:10
+let's jump right in.
+0:12
+[Music]
+0:13
+Hello everybody. Yes, and welcome back
+0:16
+to another tutorial on the Twin Plays
+0:18
+channel. In today's video, we're going
+0:19
+to be talking about how to make a second
+0:21
+floor, a the second rebirth, all those
+0:24
+kind of things going into that. And then
+0:25
+in the next videos, I'll be going over
+0:27
+how to make more characters and um you
+0:29
+know, how to make model characters
+0:31
+because I feel like a few of you guys
+0:32
+need help with that. Um if you're new to
+0:34
+my channel, feel free to hit that
+0:35
+subscribe button, turn on notifications.
+0:36
+Means so much to me. Um and I appreciate
+0:38
+all the support you guys. Um all the
+0:40
+credits and links are in the
+0:42
+description, so go check them out. Now,
+0:44
+um of course, if you're new or you're
+0:45
+just starting the series, um you should
+0:47
+be able to get everything below. Like I
+0:48
+said, um it goes over with Golden Milk,
+0:50
+who made this kit, and TGO, who made the
+0:52
+build, everything like that. Um but
+0:55
+yeah, so leaving off where we were. Um
+0:58
+you know, go into your game should all
+1:00
+be set up just like this. And you should
+1:02
+just have one base for now. Um you don't
+1:04
+need more bases, uh just because um
+1:06
+until you get it ready, uh you don't
+1:08
+want to make more just because of copy
+1:10
+pasting issues. But yeah, so I'm just
+1:13
+going to freeball this right now. So
+1:15
+making new floors, um I'm pretty sure he
+1:18
+had it set up a certain way where you
+1:20
+actually just go into these floors right
+1:22
+here. And then of course you see we have
+1:24
+these slots, but we can worry about that
+1:25
+later. Okay, so going into here, we have
+1:28
+floor one and then we have uh floor two.
+Building Second Floor
+1:31
+Um, so making floor two, uh, we're
+1:34
+actually going to just duplicate this
+1:35
+and we're going to put this up here and
+1:39
+we are going to do it like this.
+1:41
+Actually, you know what? Let's actually
+1:42
+build it first. Okay, so for the second
+1:46
+build, um I think how Seal Brand Rod
+1:48
+does it, and you guys have to correct me
+1:49
+if I'm wrong, cuz like I said, I don't
+1:51
+really know how these games I I don't
+1:53
+remember, but let's just say you want to
+1:56
+build the wall first. So, um I'm pretty
+1:58
+sure steal brain rot like you know, you
+2:00
+have a back wall. So, we'll just we'll
+2:02
+just go over and make some things right
+2:03
+now. Um actually, it's probably
+2:07
+Yeah, let's just chill for now. Um okay,
+2:09
+so making your wall, depending how you
+2:11
+want to do this. Um, I'm going to go in
+2:13
+here.
+2:15
+Yeah, this part. I'm actually going to
+2:16
+just go like this real quick. So, just
+2:17
+ungroup it. It's easier to do that. Um,
+2:20
+I just want to make sure nothing's Yeah,
+2:21
+we're good. Okay. So, we're going to
+2:23
+send this out to out here. Um, oh well.
+2:27
+So, I see where that's going. Guess you
+2:29
+have like a little part right here.
+2:31
+Okay. So, go right here. Should be good.
+2:35
+Um, and then we'll just grab this part
+2:38
+like this. Grab this wall barrier. Put
+2:40
+this right here. And then you could just
+2:42
+extend everything. Super simple. Um, not
+2:45
+going to make it too pretty, but yeah.
+2:47
+So, just build this like how it is. Um,
+2:49
+if you're on studio light, it might be a
+2:51
+little harder. It might take a second,
+2:52
+but you will be able to do it. I promise
+2:54
+you. Okay, so that's the back wall. Um,
+2:57
+once you have the back wall made, you
+2:58
+know, it's actually if you want, you can
+2:59
+just go like this and we can just copy
+3:02
+and paste. So, I'll just go like this
+3:04
+over here as well. Um, you can even just
+3:07
+extend this wall up. I didn't even think
+3:08
+about that. Um, but yeah. So, just go
+3:12
+like this. And to hold them all down
+3:14
+like how I'm doing, just hold the shift
+3:16
+button. Okay. So, make sure you're
+3:17
+holding the shift button while you're um
+3:19
+duplicating these. And it's honestly
+3:21
+easier, too. So, if you group it, you
+3:22
+see if like you missed anything. So, I
+3:23
+can actually just group that cuz might
+3:25
+as well. Um but yeah. So, now I'll just
+3:28
+go over here and um Okay. Well, now we
+3:32
+got to ungroup it because it's too big.
+3:34
+Oh. Uh yeah. So, you can ungroup it. And
+3:36
+actually, I can just delete this. I'm
+3:37
+not going to make it special like I just
+3:39
+talked about, but um and then I can just
+3:41
+like go like this or whatever. Go like
+3:44
+this. So, doesn't look too amazing, but
+3:46
+it's okay. Um and same thing again.
+3:51
+Just go like this and group Ctrl D. Uh
+3:55
+once you do control D, you're good to go
+3:57
+like that. Um oh, this is going to be
+3:59
+where they enter actually. So, I'll flip
+4:01
+this around. Um okay, so we're making
+4:04
+the second floor right now. And then
+4:06
+actually ungroup again. Barrier just go
+4:10
+like this. I think this is how you guys
+4:11
+did it, right? Don't don't correct me.
+4:13
+Correct me if I'm wrong. Um, so it
+4:15
+should go like this. And you should be
+4:17
+good. Okay. So, now that we have this,
+4:21
+um, we can go ahead and duplicate this
+4:24
+roof. Um, just like this. And then, uh,
+4:28
+let's actually just extend this part
+4:30
+out. Or, you know what? Maybe we just
+4:32
+make it a little nicer. Let me go and
+4:34
+make it like this. Grab this. Uh, sorry
+4:38
+guys. I just want to make it look
+4:40
+somewhat good, I guess. Right. I should
+4:41
+actually do something. Um, go like here.
+4:46
+Go up. Same thing. Um, and then you can
+4:49
+grab this stud block or whatever, you
+4:52
+know, just blah blah blah, I guess you
+4:54
+could say. Um, does not match. Does not
+4:57
+look amazing. It's okay, though. And
+5:00
+then we can uh just I guess let me just
+5:03
+go like this real quick. Make the
+5:04
+barrier. But yeah, you just want you
+5:06
+always want the barrier of course. Um so
+5:09
+let's go like that. Okay. So now you
+5:11
+have your uh walls and windows. Um now
+5:13
+so what you want to do uh this was just
+5:15
+in here. So I can just group this. It
+5:18
+doesn't really matter because this floor
+5:20
+could always just be built like that. Um
+5:22
+but then what you want to do um so this
+5:25
+is part of the map. So we don't need to
+5:27
+worry about that.
+5:28
+So, we do have floor one. So, now what's
+Creating Second Floor
+5:31
+best to do is you're going to duplicate
+5:32
+this. We're going to call it floor two.
+5:36
+Once we call it floor two, we are going
+5:38
+to uh
+5:40
+probably best to go like this as well.
+5:43
+So, let's just go and move this over
+5:45
+here like this. Oops. Um, floor two. And
+5:50
+control R is to rotate. By the way, if
+5:52
+you want to just do that, you can always
+5:53
+use these tools up here. Um but yeah, so
+5:57
+just don't worry about the lasers right
+5:58
+now. But so hit box, we're going to want
+6:00
+to make sure that hitbox is perfect. So
+6:02
+um let's move the hitbox all the way out
+6:04
+to here. Um okay, should be good.
+6:09
+Good. Perfect. Okay, so hitbox is good.
+6:12
+And the part as well, you can just
+6:14
+whatever. Like for now, it could just be
+6:15
+right here. Nothing too special. Um I'll
+6:18
+just put this right here. Now when it
+6:20
+comes to the doors, uh you're just going
+6:22
+to want to go in here and Oh yeah. So,
+6:24
+same thing with all these things, but
+6:25
+it's okay. We'll do that in a sec. Um,
+6:27
+so hitbox. This is going to be the door
+6:28
+hit box. So, you know what they can
+6:30
+enter, what they can't enter, blah blah
+6:31
+blah. Um, so
+6:34
+we'll move this up. Actually, probably
+6:36
+best we go like this. We can see. Yeah.
+6:39
+Okay, perfect. So, now that can be back
+6:41
+to one. And then lasers, we can just
+6:44
+let's just get rid of all of them and
+6:45
+keep one for now. And then we'll go
+6:47
+right here. So, best to go right here.
+6:52
+Turn these on. Just like that. We just
+6:55
+make these lasers.
+7:01
+Just like this. I think I might need to
+7:03
+reprogram some of it, but I don't think
+7:04
+so. We will double check. Um, okay. So,
+7:08
+doors. Actually, yeah, we should be
+7:10
+okay. Um, and then, yeah, I mean, if you
+7:12
+want to like add an extra thing just to
+7:14
+make it like a little fancier, you know,
+7:16
+just go right through here. And we'll go
+7:18
+and just duplicate these. Same thing.
+7:23
+a little faster I guess
+7:26
+like okay
+7:28
+and then like that and then same thing
+7:31
+again control this is control now you
+7:33
+can do shift or control I didn't get to
+7:35
+mention that um and then bring that up
+7:38
+okay all right so second floor is built
+7:40
+okay so this is what it looks like you
+7:41
+got the second floor um and we just got
+7:45
+to make sure there's no attributes or
+7:47
+anything I just got to make sure I'm
+7:48
+doing this right so we have the slots
+7:50
+too so that's what I need to look
+7:51
+because I don't remember configuration.
+7:54
+Yes, rebirth. Okay. Okay. So, I'm going
+7:57
+to take a picture of this just for
+7:58
+actually wait. No, I'm going to do I'll
+8:00
+do it later. Um but okay, so going into
+8:02
+this now. Um so for the slots, uh same
+8:07
+thing goes for what we just did. So, oh
+8:09
+yeah. So, I'm actually going to just
+8:11
+finish this real quick, you guys,
+8:13
+because we want to make sure we have
+8:14
+everything built. Um and it looks good
+8:16
+and it looks like what we just made. Um
+8:19
+the same thing goes. So, we have stands.
+8:22
+Um, okay. So, yeah, left and right. So,
+8:24
+you could actually just like duplicate
+8:26
+this and put them back up here. Okay.
+8:29
+So, duplicate it. Go like that. Uh, make
+8:32
+sure nothing goes through the roof.
+8:34
+Yeah, you're good. Um, and then Yeah.
+8:37
+So, don't worry about that cuz it
+8:39
+doesn't it's just shown up here, which
+8:41
+is perfect. Um, and then this guy, we
+8:42
+can just like I don't know. We can get
+8:45
+rid of this. I don't know how many there
+8:46
+are, but we can just go through here.
+8:48
+Okay. So now going into the actual slot
+Creating Second Floor Slots
+8:51
+portion. So we're going to make the rest
+8:53
+of the slots. Okay. So we have slot
+8:56
+eight. Okay. So we're going to move this
+8:58
+up here. Um I guess we'll just go right
+9:00
+here. This is perfect. And I did mention
+9:01
+to you guys if you want these things to
+9:03
+not like spawn in the air, just put this
+9:05
+down lower and it will it will be right.
+9:07
+Okay. So we're going to call this slot
+9:09
+nine. Okay. Once we go into slot nine,
+9:12
+you have your collective your spawn
+9:13
+configuration. So we have occupy. Don't
+9:15
+worry about that. You have your thing
+9:16
+which gives a thing. And then we have
+9:18
+rebirth.
+9:19
+So, when it comes to the floors, how
+9:21
+many rebirths do you want for in order
+9:23
+the person to have access to the second
+9:25
+floor? Um, do you want it to be the
+9:26
+first rebirth, the second rebirth? I'm
+9:28
+pretty sure in brain ste it's like three
+9:30
+rebirths or something cuz in the first
+9:31
+one I it just gives you tools and money
+9:33
+and stuff. But for this sake of the
+9:36
+game, we will just do one. Okay. So,
+9:38
+we'll just do one. And you want to
+9:40
+change it to whatever that rebirth is.
+9:41
+Um, but that doesn't mean you're done
+9:43
+yet. We have to configure some stuff.
+9:45
+But let's just go and make the rest of
+9:46
+these for now. So, um, you want to
+9:48
+duplicate that one because that one is
+9:50
+the rebirth. Um, and then, yeah, same
+9:53
+thing as always. So, you just kind of a
+9:55
+lot of copying and pasting and changing
+9:57
+names. So, slot Oh gosh. Slot 11. Um,
+10:02
+this is going to be Yes. Oh, wait. Duh.
+10:06
+Slot 11 and then we'll go slot 12. Um,
+10:10
+it's good to just keep organized, but
+10:12
+yeah. Slot 13 and then slot 14. Okay. So
+10:18
+once you have that set up, so you should
+10:19
+have your second floors, everything
+10:20
+should be good. Um, going into that
+10:23
+portion, um, we're good to we don't need
+10:27
+to worry about any of this stuff. Um,
+10:28
+animations, numbers, configurations. So
+Rebirth Second Scripts
+10:31
+we have events. We don't need to worry
+10:33
+about uh, mutations, rebirths. Okay, so
+10:37
+right here is where you want to look at
+10:40
+a few things. Um, okay. Okay, so it
+10:43
+looks like right now how we had it set
+10:44
+up was the second rebirth actually gives
+10:46
+you the floor. Um, so yeah, so floor two
+10:50
+and floor three. Okay, so your first
+10:52
+rebirth is going to give you uh yeah,
+10:54
+this is the configuration by the way. So
+10:56
+you want to go and make sure you look at
+10:58
+that. Okay, so this is the rebirth
+10:59
+module. This is what does all the
+11:01
+rebirth. So it's going to give you a 0.5
+11:03
+multiplier and it's going to give you
+11:04
+5,000 money. It's going to give you um a
+11:07
+certain time and then the floor. And
+11:09
+then requirements though, you know, you
+11:11
+have to have this amount of money. So
+11:13
+it's going to be um got 1 million and
+11:16
+then uh you have to have these kind of
+11:18
+things. Um so like when it when you like
+11:20
+whatever got two ton tongs or whatever
+11:22
+you just playing girl uh still at brain
+11:25
+rot, you have to have a certain amount
+11:26
+of brain rots or certain things to
+11:27
+unlock to go to the next one. So it's
+11:30
+the same thing. So yeah, rebirth wise,
+11:33
+you know, if you want to keep adding
+11:34
+rebirths, um if you don't want them to
+11:36
+unlock floors, you know, you just get
+11:37
+rid of this. Um, and then you can call
+11:40
+this three and then uh multiplier money
+11:44
+blah blah blah. Um,
+11:46
+and yeah, it gives you money and stuff.
+11:48
+So if you want to add values to that and
+11:50
+um then just make it even more to go to
+11:52
+the next rebirth. So that's kind of how
+11:54
+rebirths work. Um, and it's honestly,
+11:58
+yeah, it's pretty simple to go through
+11:59
+here. So it's actually already set up,
+12:00
+which is pretty nice. Um, what else did
+12:03
+I talk about we were going to get into
+12:04
+with this videos? I think we were just
+12:06
+going over some other things, but yeah,
+12:08
+there's server lock. These are the
+12:10
+things we'll to go in the next videos.
+12:11
+Uh, mutations and events. Um, yeah, this
+12:15
+handles the rebirth script. And then,
+12:18
+um, I think everything else kind of goes
+12:20
+as it is. Uh, but shouldn't have to
+12:24
+worry about anything else. Yeah. So, we
+12:26
+should be good. Um,
+12:29
+if I'm right. Yeah, let's just play it
+Testing
+12:30
+real quick. So,
+12:33
+oh, just happened.
+12:37
+Reset base.
+12:39
+Oh, yeah. So, this is where that thing
+12:41
+come in. Okay. Well, I don't think
+12:43
+that's not remember. Oh, I'll have to
+12:46
+fix that. Okay. Well, it's still still
+12:49
+working. So, Oh, yeah. And I have 100
+12:51
+reverbs. So, actually, it actually does.
+12:53
+I do have the second floor unlocked. So,
+12:55
+let's actually just test this real
+12:57
+quick. Oh, I didn't even add the stairs.
+12:58
+That's what I was supposed to add. Okay.
+13:00
+But as you could tell, oh yeah, so as
+13:02
+you could tell it works. You have both
+13:04
+of the things that just got disappeared.
+13:06
+Um and then let's just see. This is a
+13:10
+good question. Gosh. So we purchased
+13:12
+this one.
+13:14
+Um
+13:16
+that should be max. Yeah. So I it is
+13:18
+working uh if I'm right cuz they're
+13:21
+going upstairs, right? Let's see. Yay.
+13:23
+Okay. So it is working. Um yeah. So
+13:26
+that's that's about it when it comes to
+13:29
+this part. uh let me I want to take a
+13:33
+picture of this. Um
+13:36
+just for the thumbnail, you know, guys.
+13:38
+Um but yeah, so as you can tell, we have
+13:41
+the second one. And it's actually good
+13:43
+to look at it from the server side. So
+13:44
+you can click this to see, but if you go
+13:46
+in here, you can see the stands. Uh
+13:48
+important says equipped NPC name. Uh oh,
+13:51
+wait. Oh, wrong one. Uh bases slots slot
+13:55
+11. The things in it configuration, it's
+13:57
+occupied rebirth one thing. it's called.
+14:00
+Um, so you kind of get my point. Um, but
+14:02
+yeah, so this is working great. Um, and
+14:06
+yeah, you guys, so we have the
+14:08
+leaderboards. Uh,
+14:12
+who is this? I wonder how that came out.
+14:15
+That's weird. Um, either way, um, yeah.
+14:18
+So, oh yeah, so we have a rainbow right
+14:20
+here. This one's a new mutation and
+14:22
+stuff, but we'll go over the mutations
+14:24
+in the next video. But yeah, I just
+14:25
+wanted to show you guys how to make
+14:26
+that. Um, and let me know if you have
+14:28
+any more questions about some of this
+14:30
+stuff because I know there are like
+14:32
+certain things, but yeah. So, like Okay.
+14:34
+Oh, yeah. That's what I need to fix.
+14:36
+Okay. So, I didn't do the uh
+14:40
+block part. Okay. I will look into that.
+14:43
+But yeah, so
+14:45
+same thing again. You could just build
+14:46
+the stairs uh however you want. Um, like
+14:49
+I said, I don't really know how Brain
+14:51
+Rot does it, but I mean, it's a
+14:53
+stairway, so way works. Um, but yeah, if
+14:56
+you were to just like go like this and
+14:58
+then like add some stairs going up,
+15:00
+that's just perfect. Um, like I said,
+15:03
+you can do whatever whatever's easier
+15:05
+for you guys. Um, but yeah, and then on
+15:08
+there's actually plugins, too. If you
+15:09
+want, you could like like this plugin.
+15:11
+So, uh, stairs just like that, which is
+15:14
+kind of fun. But, um, yeah, don't be
+15:17
+afraid to, uh, you know, test around and
+Outro
+15:20
+see what you can do. But um it just goes
+15:23
+and plays whatever with all the same
+15:26
+stuff. But yeah, you kind of get what
+15:28
+I'm going here. U but yeah, you guys.
+15:30
+Okay. Um we'll get into the next video
+15:32
+talking about uh I think making more
+15:35
+things if what I was just talking about.
+15:37
+But yeah, I'll see you guys in the next
+15:38
+video. Bye.
+15:46
+girl.
+16:00
+Girl, girl, girl, girl, girl, girl,
+16:00
+girl, girl, girl, girl,
+
+PART 10:
+
+Hey there, welcome to my channel. I'm on
+0:01
+the mission to hit 100,000 subscribers
+0:03
+before the end of 2025. And your support
+0:05
+means everything. So don't be that
+0:07
+person who watches but doesn't
+0:08
+subscribe. Thanks for being here and
+0:10
+let's jump right in.
+0:13
+Hello everybody. Yes, and welcome back
+0:16
+to another tutorial on the Twin Place
+0:17
+channel. In this video, we're going to
+0:18
+be going over basically fixing the kit.
+0:21
+You got rebirths, floors, transparent
+0:23
+parts, building, all that kind of stuff.
+0:25
+Um, I kind of had to script. This took a
+0:27
+second. I just was a little stupid. But
+0:31
+um we're going to go straight into this.
+0:32
+Now, I know a lot of you guys are
+0:34
+confused on using the kit, you know,
+0:35
+brain rods, all that kind of stuff. I
+0:37
+don't know what to say to you rather
+0:39
+than I would recommend watching that
+0:40
+first video that just goes, it's 30
+0:42
+minutes long, kind of goes over
+0:43
+everything. Just goes over how to use
+0:44
+the kit, how to make sure things work,
+0:46
+because people are saying their things
+0:47
+are not spawning, and it's like, I don't
+0:49
+know how to help you because um it works
+0:51
+for me, it works for a lot of other
+0:52
+people. I just think you're doing some
+0:53
+things wrong. Um but either way, we're
+0:56
+going to go straight into this. Um, if
+0:58
+you're new to my channel, feel that
+0:58
+subscribe button, turn on
+0:59
+postifications. Means so much to me.
+1:01
+And, um, we got a lot of grow garden
+1:03
+videos and other videos coming up. Uh,
+1:05
+I'll be talking about how to make custom
+1:06
+characters in this series, as well as,
+1:08
+um, you know, more tools and everything
+1:10
+and fixing the tools as well because
+1:11
+there's a lot of things you have to fix
+1:12
+in this. But yeah, um, all the credits
+1:14
+are in the description as well. This was
+Getting Link
+1:16
+made by and um, the kit's down
+1:18
+there. Everything's down there. Um, and
+1:19
+going actually forward to that. Uh,
+1:21
+yeah, go get all the links because you
+1:23
+will be needing this right here to
+1:24
+update your game. So, this as well is in
+1:27
+the description. Um, another thing, too,
+1:29
+is if you guys are not in my Discord,
+1:30
+feel free to join cuz I'm going to be
+1:32
+updating everything in here and putting
+1:33
+all the files uh just based off of like
+1:35
+what what I do. Um, so yeah, you can
+1:38
+just go into there and grab that. Um,
+1:40
+but okay, as you can tell, I have three
+1:43
+bases. So, what we are going to do, um,
+1:46
+is you might yours might not look
+1:48
+exactly like this, which is okay. But
+1:50
+yeah, if you grabbed um his kit, you
+1:52
+have the steel a thing kit, you have the
+1:53
+steel a brain rot map. Um and make sure
+1:56
+you set up your game settings. Like I
+1:58
+said, I think a lot of people who are
+1:59
+having issues, just don't enable these.
+Importing
+2:01
+So, make sure those are on. And if you
+2:03
+ever just have issues, hit view and go
+2:05
+to output. That will show you
+2:06
+everything. Now, if you claim the model
+2:09
+or if you downloaded the model, you can
+2:10
+actually go to model tab and click this
+2:12
+model button right here or just in
+2:14
+toolbox and go to your inventory right
+2:15
+here. Okay. So going into that, um let's
+2:19
+say yours just looks a little different,
+2:21
+of course. Um you can actually just
+2:22
+import this. So this is going to be very
+2:25
+simple. Um so you have your basis
+2:27
+folder. If you did set this up and watch
+2:28
+my last video, just go ahead and replace
+2:31
+the old folder. Just delete the other
+2:32
+one and put it with the new one. Okay.
+2:35
+Um then with this thing script, you're
+2:37
+actually going to go into server script
+2:38
+service, drop it here, and delete the
+2:39
+old thing script. That's it. You're
+2:41
+done. And we have the new updated
+2:43
+version. Now going into that, um, I want
+2:47
+to show you some things. Okay, so let's
+2:49
+say you want to make a new base. Um,
+2:51
+very simple. You just control D or you
+2:54
+can actually just rightclick right here
+2:56
+and hit duplicate. And um, then you just
+2:59
+call it base 4. Boom. And um, that's
+Making New Bases
+3:03
+weird. Uh, voice 4. And you're done.
+3:05
+That is how you make the bases. So,
+3:08
+actually going with that, you know, if I
+3:10
+um wanted to make more, I could just go
+3:12
+ahead and duplicate all these and go
+3:13
+base five, base six, base seven, base
+3:15
+eight. Um, which I probably will because
+3:18
+I don't think I'm going to be doing a
+3:20
+third floor, but we'll talk about this
+3:21
+in a sec here. So, yeah, let's just set
+3:23
+them all up right now. Um, and if you
+3:25
+guys want to do your own floors, I'll
+3:26
+explain that in a sec here as well. Um,
+3:29
+very simple to do. But yeah, so base 6,
+3:32
+bass 7, bass 8. And I'm going to explain
+3:34
+a lot of stuff that we did because in
+3:36
+the last video I was like, "Oh, you did
+3:37
+this and this doesn't work." So I fixed
+3:40
+it to make sure it works because I don't
+3:41
+know why he made it, but it didn't
+3:43
+wasn't really made correctly because um
+3:46
+at some point you're just like, "Oh,
+3:48
+this is a little uneven. I didn't even
+3:49
+realize." Well, TGO, well, you can fix
+3:51
+that. We'll fix that later. Um but at
+3:54
+some point, you have to realize that uh
+3:56
+you know, you want certain floors based
+3:57
+off rebirth. So inside of each base,
+Talking About Floors
+4:00
+okay, we have the slots. Remember, we
+4:02
+have these slots. These are where the
+4:03
+brain rots are st stored. And we have
+4:05
+the floors. Okay, floor one and floor
+4:07
+two. So if I just go like this, this is
+4:10
+floor two. It's just like this. So
+4:12
+basically, when you start the game, it's
+4:13
+going to look like this base. It's going
+4:15
+to look like this base for everything.
+4:17
+Um, these are the fully built bases,
+4:19
+though. So almost think of it like a
+4:21
+tycoon. Um, and the LA and the Tycoon
+4:23
+series, your Tycoon is like completely
+4:25
+built in studio, but you just when you
+4:27
+hit play, it's not built. Um, so going
+4:30
+into that guys, um, with the slots, um,
+4:33
+what we did is it goes all the way up to
+4:35
+eight. Okay, so it's all the way up to
+4:37
+eight down here and then it goes nine.
+4:40
+Oh wait, yeah, then nine, then 10, 11,
+4:42
+12,
+4:44
+if you wanted to add more, of course,
+4:45
+you just duplicate up here and you go
+4:47
+and call it slot 15. So, we call it slot
+4:50
+15 and we go across. But like, let's go
+4:52
+and make another floor here. Like, if
+4:54
+you wanted to, you would just go up here
+4:56
+and duplicate it. And then you'd call it
+4:58
+floor three. And that's it. It's very
+5:00
+simple. Um, and then, like I said, if
+5:01
+you wanted to make more slots, you'd go
+5:03
+up here. And you just have to make sure
+5:04
+that uh your uh slots are following, you
+5:08
+know, kind of how it is like this. And
+5:10
+then go 15, duplicate it. You go 16,
+5:13
+blah blah blah blah blah, and you're
+5:15
+done. So, I'm going to delete these for
+5:17
+now. But that's the whole thing. Um, and
+5:20
+lasers work as well. So, you can even
+5:21
+have the lasers. So, if you go to floor
+5:22
+two, you have the build and we have the
+5:24
+doors, hit box, and a part. Um, I wasn't
+5:26
+able to explain it, but make sure this
+5:27
+hit box is all of this because what it
+5:30
+is is it basically you see right here.
+5:32
+Um,
+5:34
+this is actually what is basically going
+5:36
+to do the steals and sell all that kind
+5:38
+of stuff. Um, and then of course in
+5:40
+doors, this is just, you know, the door
+5:42
+itself, the little uh the lasers and
+5:44
+everything. So, you're good to just not
+5:46
+worry about that. But yeah, so doors and
+5:48
+then the build. This is the build
+5:50
+itself. So literally if you want to just
+5:52
+mess around like what I'd recommend if
+5:54
+you want to just build yourself like
+5:56
+your own place and just build it how you
+5:58
+like, all you have to do is drag parts
+6:01
+into this build and it will work. But
+6:03
+you have to realize that floor two build
+6:05
+is floor two. So like if if I want to
+6:07
+build floor two, it's going to put all
+6:09
+into this folder. because what's going
+6:10
+to happen is if we we click um we click
+6:13
+play, we don't want to um have it part
+6:16
+of floor one because that's going to
+6:17
+show. But basically vice versa, same
+6:21
+thing. So like yeah, floor three, we'll
+6:22
+call it floor three and then if we want
+6:24
+to build off of this um we'll go into
+6:26
+the build, we'll like get rid of stuff,
+6:28
+blah blah blah blah blah. So like I I
+6:29
+want to get rid of stairs, I'll get rid
+6:31
+of the stairs. Um and then yeah, and
+6:33
+what's really nice about this is, you
+6:34
+know, if it's in the folder, you can
+6:35
+just kind of drag and drop. Um but I
+6:37
+mean floor 3 actually is just right
+6:39
+here. So, I could just go like this and
+6:41
+we have floor three. Um, but I don't
+6:42
+know how you want to get up there. So,
+6:44
+however you want to do that, but you
+6:45
+kind of get the point how that works.
+6:47
+Um, and yeah, so that's that's it. The
+6:50
+hitbox and the part um the slots. And
+6:53
+then that's yeah, that's actually kind
+6:55
+of that's kind of it for this. Um, I
+6:58
+wanted to make tutorials on custom
+6:59
+characters and everything. And I'll show
+7:00
+you. Actually, I've been trying to work
+7:01
+on it. Been having a little bit of
+7:02
+issues with it though. But yeah, in
+7:03
+here, so we had to change a few things
+7:06
+because um I love how things and how I
+7:09
+say things a lot, but we have the get
+7:11
+unlocked floors. So we check the floors,
+7:12
+we check the doors. Um but mainly right
+7:15
+here. Okay, so this is where we're going
+7:17
+through and storing all the uh like
+7:19
+let's just say original like asset
+7:21
+stuff. So like transparency, can
+7:23
+collides, all that kind of stuff. We're
+7:24
+doing the beams, the lights. So
+7:26
+everything we're storing is going to
+7:28
+like we're just storing it so it looks
+7:30
+like this when you hit play. um and when
+7:32
+you hide it and you don't hide it and
+7:34
+all that kind of stuff. So, we hide the
+7:35
+floor model, show floor model, fly floor
+7:37
+loot visibility. Um and this is where
+7:39
+we're checking and I'm going to show you
+7:40
+guys the debugging and what it looks
+7:41
+like. And then the update base, um this
+7:43
+is also printing. So, you can get rid of
+7:45
+all the prints if you want. You don't
+7:46
+have to really touch them, but this is
+7:47
+where it's going to update the base
+7:49
+basically. So, um down here though, what
+7:51
+we added, which if Golden Milk does
+7:53
+watch this, he'll see, but um might not
+7:55
+be right, might be right. It just works
+7:57
+and works. So, right down here, we
+7:59
+actually do an onserver event. I don't
+8:01
+know why the player added was not
+8:02
+getting called. I'm guessing it's
+8:04
+because uh it's in player added. So, of
+8:08
+course, um but yeah, so basically on
+8:10
+server event, we're just going to do a
+8:11
+task.wait because and this was my
+8:13
+biggest issue is because rebirth right
+8:15
+here actually goes through and we have
+8:17
+to just make sure that the next rebirth
+8:18
+value gets called instead of this thing
+8:21
+first. Yeah. So, it updates the
+8:23
+multiplier, updates the base and that's
+8:25
+it. So, going into this. So, if you
+8:29
+wanted to test this test this out with
+8:30
+two people, um you can always click test
+8:33
+right here and click start. Um if you're
+8:34
+on mobile light, I don't know if you can
+8:36
+do that. I don't know. But if you just
+8:38
+want to hit play, just hit play and you
+8:40
+should be able to test it and you'll
+8:41
+still it'll save and everything. But for
+8:43
+you guys, for the sake of the video, I
+8:45
+will test it with you guys just because
+8:47
+um I want to show you how this works.
+8:49
+But um quickly before it shows up um
+Example
+8:54
+heck I hate how it does this because it
+8:56
+low key is messy but um with the debugs
+9:00
+um just checking everything.
+9:03
+All right.
+9:05
+All right. So basically right here show
+9:08
+floor one hide floor two. So this is a
+9:10
+servers right now. So you see how we
+9:11
+have Okay. So we have the bases right
+9:12
+there. This base is right here. We have
+9:14
+our things coming in. And this is the
+9:16
+custom character model as you can tell
+9:17
+that I was having making. Um I made it a
+9:19
+cat. But uh it still doesn't work
+9:22
+amazing cuz for some reason they fall
+9:25
+through the ground which I'll show you.
+9:27
+But um we'll work through that for now.
+9:30
+So um let's go to player one. Yeah,
+9:34
+player one. So I made it to rebirth
+9:36
+really cheap. Um but yeah, you can see
+9:37
+floor two plus six, all that kind of
+9:39
+stuff. So, um I will go through here and
+9:43
+I'll just do this guy thing. So, what's
+9:47
+going to happen is it's going to go
+9:49
+through um I'll show you real quick and
+9:53
+let's get his thing. He goes walks
+9:55
+through boom and then we rebirth. Boom.
+9:58
+Okay. So, now we got rebirth one. Then
+10:00
+actually on the server side, same thing
+10:03
+again. So, now we go down here and it
+10:05
+shows floor two, floor one, blah blah
+10:07
+blah. We count. There's a lot of prints.
+10:08
+You can get rid of these like I was
+10:10
+talking about, but um as you can tell,
+10:12
+floor two, blah blah blah. So yeah, so
+10:14
+that basically works. That's it. That
+10:16
+that works great. Um except this cat
+10:18
+part that I need to figure out cuz they
+10:20
+just keep falling through the floor.
+10:22
+Like what is this? Come here. I want to
+10:24
+try and buy it. But um I'll have to fix
+10:26
+that. I don't know if he made it
+10:27
+compatible with models, so that's
+10:29
+probably why. But I mean, these things
+10:30
+were a model when I was looking at it.
+10:32
+So um we'll work on that. It's probably
+10:34
+just some little anchor issues or welds.
+10:36
+I don't know. We'll figure it out. But
+10:38
+as you can tell, that's pretty much it,
+10:39
+you guys. Um, so leave comments below. I
+10:42
+know you guys are having issues. Um,
+10:44
+don't if you have an issue with your
+Outro
+10:46
+main game. I don't know what to tell you
+10:47
+cuz it works great for me. It works
+10:49
+great for a lot of people. Uh, please
+10:51
+come on Discord though and anything you
+10:53
+need, just leave in the comment section.
+10:54
+But a lot of stuff is coming out. So,
+10:56
+I'll help you guys out with that.
+10:57
+Whatever is needed. I hope that
+10:58
+explained well and help you guys
+10:59
+understand how to update your kit. Just
+11:01
+drag and drop. It should be done. Um,
+11:04
+not too hard. Uh, but yeah. Okay, and
+11:07
+I'll see you guys in the next video.
+11:08
+Bye.
+
+PART 11:
+
+0:00
+Hey there, welcome to my channel. I'm on
+0:01
+the mission to hit 100,000 subscribers
+0:03
+before the end of 2025. And your support
+0:05
+means everything. So don't be that
+0:07
+person who watches but doesn't
+0:08
+subscribe. Thanks for being here and
+0:10
+let's jump right in.
+0:13
+Hello everybody. Yes, and welcome back
+0:15
+to another tutorial on the Twin Place
+0:17
+channel. In the last video, we quickly
+0:18
+talked about how to do the floors and
+0:21
+rebirths and everything like that. So um
+0:24
+going into this, we're going to just
+0:25
+talk about the bat real quick. Just bat
+0:28
+tool. If you're watching this video and
+0:29
+you're new to my channel, um feel free
+0:30
+to hit that subscribe button. I'm trying
+0:32
+to post notifications. But if you're
+0:33
+watching this and you haven't watched
+0:34
+the steal a brain rock kit, go watch the
+0:36
+other videos because you might you're
+0:37
+gonna need it. Um because it's not just
+0:39
+a separate tool. We have a whole system
+0:41
+for it. Um but if you do want to just
+0:44
+make yourself a bat, um you can actually
+0:46
+go and look at the kit and look at the
+0:48
+scripts. But um yes, cuz you guys are
+0:50
+probably wondering, "Oh, the bat doesn't
+0:51
+really work or maybe like the tools and
+0:53
+stuff." But um in here we have tools.
+0:55
+And actually going if you're new to the
+0:57
+channel or if you're watching this video
+0:58
+and just want to make a brain bat, you
+Explaining
+1:00
+can actually go and grab the script.
+1:01
+It's part of the kit which is all in the
+1:03
+description which uh going off of that.
+1:05
+Get all the links in the description and
+1:07
+also join the Discord because I leave
+1:09
+basically all the links in there and
+1:11
+anything with that. We're also doing
+1:12
+grow a garden series as well. But um
+1:15
+going into that. So you can actually
+1:17
+yeah just copy and paste all this stuff
+1:18
+if you want. Like the fling tool is
+1:20
+perfect. Um but making the bat um and
+1:24
+let's say the slap. Okay. There is one
+1:26
+thing that is just not working. And the
+1:28
+one thing is is the animations. Um
+1:30
+because when you click you click it, it
+1:32
+doesn't work. Um but going into it
+1:34
+should be in server storage if I'm
+1:36
+right. Oh yeah, and I was trying to set
+1:37
+up tongue tongue whatever. But um we can
+1:40
+just drag this out for now. So here's
+1:43
+the bat. Okay, this is what it looks
+1:44
+like. Um, and in the bat, if you want to
+Customizing Bat
+1:48
+customize it, okay, let's just say we
+1:50
+want to customize it. It doesn't really
+1:52
+matter. You can do whatever you want,
+1:53
+but you know, you can make you can get
+1:55
+like a baseball bat. So, just click no
+1:58
+blah blah blah as a script. Okay, it
+1:59
+does it right on top. I actually like
+2:00
+maybe kind of like this design better,
+2:02
+but either way, super simple stuff. Um,
+2:05
+and there's all these things right here,
+2:06
+too. So, let's just look in here. Yeah,
+2:08
+there's nothing in there, so we don't
+2:09
+have to worry about uh there's a trail,
+2:11
+which is kind of cool. There's a weld.
+2:13
+Um, you don't need any of this. So, you
+2:14
+can actually just delete all this stuff
+2:16
+in here. But, you know, going with that,
+2:19
+if you want to just customize it, you
+2:20
+can actually just drag that into here.
+2:22
+Delete the old one. Delete this. And
+2:24
+make sure it's called bat plugins. If
+2:26
+you don't have this, you're going to
+2:27
+need this. But there's a tool grip
+2:29
+editor plugin. You can also go, and I
+2:31
+always recommend this. If you are going
+2:33
+to start development, make sure you have
+2:34
+a tool grip editor. Um, this is five
+2:36
+bucks. I have the five bucks version. It
+2:38
+was free, but just grab the free
+2:39
+version. Probably should work. But, you
+2:41
+know, either way, this one's super easy
+2:42
+because look, now it's going to spawn
+2:43
+like that. We don't want that. So, I'll
+2:45
+just go right here and um I want to grab
+2:48
+it like this. And it's gonna give me a
+2:50
+bat. Okay. So, now I have a bat. And uh
+2:52
+just make sure it lines up. Okay. So, we
+2:54
+have a bat. Looks good. Perfect. Okay.
+2:57
+So, now we have a bat. That changed the
+2:59
+looks of it. So, that's kind of how you
+3:01
+make the looks of it, if that makes
+3:02
+sense. Um sorry, that was a little fast,
+3:04
+but um you should be able to just do
+3:07
+that very simply. Um, if you do, if it's
+3:09
+not a mesh, uh, you just got to make
+3:11
+sure everything's welded. Um, and which
+3:13
+goes into the case of you need a weld
+3:15
+plugin. So, go to plugins and search up,
+3:18
+uh, I don't know, you search up weld and
+3:20
+there should be auto. Yeah, there's like
+3:22
+a bunch of stuff here. So, you can just
+3:24
+search that up. But, um, going with
+Making New Slap
+3:26
+that, you're just going to put this back
+3:27
+into the tools. And same thing for slap.
+3:31
+Um, you know, you can customize this how
+3:33
+you want, but let's say, you know, we
+3:34
+want to make the gold slap, which we
+3:36
+kind of were talking about. we can go
+3:37
+ahead and make a gold slap. But yeah, so
+3:41
+let's let's duplicate this. Actually,
+3:43
+we'll put this in tools and um this
+3:47
+video is on the bat, but we'll go into
+3:48
+here and you know, we could call it, you
+3:50
+know, slap or whatever. Okay. And then
+3:53
+we can go into here and we can call it
+3:56
+uh we can do this and it's kind of gold,
+4:00
+right? So, um going into that as well,
+4:04
+tool grip. Just double check how it
+4:05
+looks. Looks good. Um,
+4:09
+yeah. So, we can just go like this and
+4:11
+then I'm going to take a photo of this
+4:13
+for my thumbnail. Um, just because
+4:17
+actually, no, I don't need Okay, gold
+4:20
+slap. You're good. We don't even need to
+4:21
+do anything. We just put that tools.
+4:22
+Okay. So, modules, we don't need to
+4:25
+worry about that. Tools, we don't need
+4:27
+to worry about it's just right here. So
+4:28
+going into this part, um if you look at
+4:32
+it, we have the bat and we have slap. Um
+Tools Module
+4:37
+so if we want to make a gold one, which
+4:38
+I was just talking about, go right here
+4:40
+and we call it uh well, we got to make
+4:42
+sure it's the same thing as server
+4:44
+storage. So just double checking slap.
+4:46
+Good. Um and then and gold and whatever.
+4:51
+Then there's an icon for it. you want to
+4:53
+get an icon. Actually, another really
+4:55
+simple thing to do, you can go to TCAL
+4:57
+and I mean it just depends how you want
+4:58
+to do this, but if you don't have your
+5:00
+own, like see this is a slap hand. So,
+5:02
+like I could go right here and search up
+5:03
+slap icon and it just be this texture ID
+5:06
+right here. So, I just copy that and I'd
+5:08
+put it into this right here. Oh, whoa.
+5:11
+Uh, did I not copy that right? I'll just
+5:14
+do one more time. Um, so copy that ID.
+5:17
+It should work.
+5:20
+the hell's going on here?
+5:24
+Uh, let's go this way. I think not.
+5:28
+There we go. Um, icon. Okay, that works.
+5:31
+Um, and then yeah, if you want to make
+5:33
+your own, just go on a website, make the
+5:36
+image, and then just go and put in a
+5:37
+texture on a decal and add an image, and
+5:39
+then you can just copy that ID. Um,
+5:43
+okay. Going to that, we have an
+5:45
+activation anim active activation
+5:48
+animation and then activation sound. So
+5:50
+if you want to make a sound again wants
+5:52
+the same thing. Go to audio u we call it
+5:54
+bat. Oh there is actually slap but you
+5:57
+know whatever. So bat hit sound.
+6:02
+Okay. Baseball whatever hit swing. So
+6:06
+we'd actually just copy this. Um I think
+6:09
+you can just put this in here. So that
+6:11
+should work. But yeah. And then same
+6:14
+thing goes for slap. But we won't be
+6:15
+using slap because I'm just going to hit
+6:17
+play. Um, power can return soul things,
+6:20
+cooldown, just customize that to your
+6:22
+liking. The price and rebirth. So, like
+6:24
+this is in the shop, so yeah, I'm going
+6:26
+to go a thousand. I want it to be
+6:27
+rebirth, too. Start or false. Power,
+6:29
+same thing. You go 100. Um, just kind of
+6:32
+make sure they're don't too overpowered.
+6:33
+Um, like kind of cool down, you know,
+6:35
+five, blah, blah, blah. And you're good.
+6:38
+Okay. Now, the only thing you really
+6:39
+have to worry about is the animation.
+6:42
+So, when it comes to animations, this is
+6:45
+the fun part. Um, I'm not amazing at
+6:48
+these, so bear with me. But, you know,
+6:50
+let's just say we build go to avatar
+6:52
+right here. And let's just go, you could
+6:54
+go my avatar, whatever works. I'll just
+6:55
+go block avatar for now. But, um, we're
+7:00
+going to go right here. Honestly, there
+7:01
+might be a thing. So, sometimes I like
+7:03
+to do this because Okay, there you go.
+Animations
+7:05
+So, you see that right here? This R15
+7:07
+though? It might be R six. Let's see.
+7:09
+Ah, it's R six. You Okay, so it's the
+7:13
+kind of the same point. So, if your game
+7:15
+is R six, you can use this animation,
+7:17
+but like, okay, look. So, if you go
+7:19
+search up bad animation models,
+7:20
+sometimes people have it. So, oh yeah,
+7:22
+right here. Okay, there's a bat
+7:23
+animation right here. Let's see if this
+7:24
+works. Um, so what you can do, I'll just
+7:28
+get rid of this for now. But you also
+7:30
+kind of can too, if you want, just grab
+7:31
+the bat and like set it to uh the rig.
+7:36
+And you're just going to have to weld
+7:37
+it. But that should work actually. So,
+7:40
+um, yeah. Yeah. So if I go animation
+7:42
+editor and click this
+7:45
+um
+7:48
+so okay. Okay. So this is unequip. Oh
+7:53
+dang. How many? Oh this is cool. Okay.
+7:56
+So you have like unequip and you have a
+7:58
+bunch of stuff. So you So sorry guys.
+8:00
+Let me move this to the output right
+8:02
+here so you can see this. Okay. So this
+8:03
+is animation editor. This is what
+8:05
+animates all your kind of stuff. So as
+8:07
+you can tell we have it open. There's
+8:10
+this load. So, you know, equip have the
+8:13
+equip. Gosh, these are kind of cool, but
+8:16
+we don't want that. Um, there's also
+8:17
+idle, too, which is kind of fun, but uh
+8:21
+this is like a very short idle, which is
+8:23
+kind of crazy, but you just want B hit
+8:26
+one. Okay, let's see. Boom. Okay. No,
+8:29
+maybe let's try hit two. Swing. Yeah, we
+8:31
+want hit two. Um, hit three. Let's do
+8:35
+hit three, actually. So when it comes to
+8:37
+this, okay, so there's animation
+8:39
+priorities, there's actions, all that
+8:41
+kind of stuff. So like when you do idle
+8:43
+animation, it's going to be idle. This
+8:45
+is an action. So we want to do action
+8:47
+two or whatever. Um you're just going to
+8:49
+go right here, hit publish to Roblox,
+8:52
+and you're going to call this um yeah,
+8:55
+just bat bat swing. Okay. Now, if this
+8:58
+is a group game, make sure it's under
+9:00
+your group, okay? Because what's going
+9:01
+to happen is it's not going to load
+9:03
+because it has to be under the right
+9:04
+person of the owner. So, I'm gonna click
+9:05
+me. Should be good. Uh, and yes, we're
+9:09
+good. And then I kind of want to like
+9:12
+just for the freak of it. This is a good
+9:14
+thumbnail, actually. Um,
+9:17
+go right here. This is So, okay. Now,
+9:20
+when you open that, I actually have it
+9:21
+right here. So, I can just copy this ID.
+9:24
+Okay. So, copy that ID. Go to tools and
+9:26
+activation animation. Just put right
+9:28
+there. That's it. Just copy this and put
+9:30
+it right there. Um, and same thing for
+9:32
+swing. you know, if you want to do
+9:34
+another swing, like you can literally
+9:36
+just do this one, honestly, if you want
+9:37
+like same thing. Um, but making an
+9:41
+animation is a little harder, but you
+9:42
+know, if I were to click, you know,
+9:43
+create new, uh, I would like import, add
+9:47
+all body, and it's like, you know,
+9:50
+whatever. So, like you start with this.
+9:52
+You want to actually keep it down
+9:53
+because it should be, and um,
+9:57
+god. Um, and then, you know, you just
+9:59
+like if they hit it's like whatever. So,
+10:02
+I'll just go right here like like that.
+10:05
+And you click play or whatever. But it's
+10:07
+a little hard. You just have to it takes
+10:09
+some time. And then don't make sure it
+10:10
+loops off and then make sure action
+10:12
+priority blah blah blah and you should
+10:14
+be good. Um, and then at the end just
+10:16
+make sure it comes back to the normal
+10:17
+standing point, which you know, you go
+10:19
+right here, click reset button. Forgot,
+10:23
+but just make sure everything's set to
+10:24
+nor. You can delete these two as well if
+10:26
+you need to. Um, but yeah. So, good to
+10:29
+do that. I'm going to just delete this
+Example
+10:30
+rig for now.
+10:32
+Um, and that should work. Uh, hopefully.
+10:36
+So, you're good to do that. Animation
+10:38
+saved, blah, blah, blah. Um, let's just
+10:41
+click play real quick. This is going to
+10:42
+use my data store, so it's a little
+10:44
+weird, but I'm going to get rid of
+10:47
+these, too, because there's so many
+10:48
+statements, but it should work. Yeah,
+10:51
+there we go. Okay, so and it plays a
+10:54
+sound.
+10:57
+Perfect. And I don't think there's a
+10:59
+cool down. So, perfect. Um,
+11:03
+I don't know if this is better, but
+11:07
+let's go like this.
+11:11
+N whatever. Um, you get the point. So,
+11:14
+that works. You get your bat and you can
+11:16
+hit people now. And it has an animation.
+11:18
+So, yeah. Um,
+11:21
+that's basically it, you guys. It's just
+11:23
+a little little simple little tutorial.
+11:25
+Um, and this one's a little longer, but
+11:27
+yeah. going over that. Um, I hope you
+11:29
+guys did understand how it works. Um,
+11:33
+and yeah, um, I will see you guys in the
+11:35
+next video. I hopefully I can get out
+11:37
+the custom characters. It might take a
+11:39
+little bit because I'm having some
+Outro
+11:40
+issues with it, of course, by myself.
+11:41
+Um, like even if I go get one right now,
+11:44
+it's just going to fall on the ground.
+11:45
+All right. Well, I'll see you guys in
+11:47
+the next video. Bye-bye.
+11:56
+girl.
+12:02
+My girl.
